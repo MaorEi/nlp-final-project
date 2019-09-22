@@ -1,0 +1,1156 @@
+review,aspect,sentiment
+2 words -filter coffee :-),DRINKS#QUALITY,negative
+Not worth the price & hype,AMBIENCE#GENERAL,negative
+Not worth the price & hype,RESTAURANT#PRICES,negative
+You have to try carrot juice,DRINKS#QUALITY,positive
+Im in love with it,RESTAURANT#GENERAL,positive
+Total rip off!!,RESTAURANT#GENERAL,negative
+They tried to change us more than double service charge on our bill.,SERVICE#GENERAL,negative
+The small pizza is tiny and up the road you can get a 3 course meal for 15 soles!,FOOD#STYLE_OPTIONS,negative
+AVOID THIS PLACE!!!!,RESTAURANT#GENERAL,negative
+The best bar in Hikkaduwa.,RESTAURANT#GENERAL,positive
+U can find here everything u want),RESTAURANT#GENERAL,positive
+Nice authentic tradition South Indian food..,FOOD#QUALITY,positive
+Nice ambience and the lighting is good,AMBIENCE#GENERAL,positive
+Nice ambience and the lighting is good,AMBIENCE#GENERAL,positive
+#36 with mango juice!,DRINKS#QUALITY,positive
+Best food in town!,FOOD#QUALITY,positive
+Their steaks are awesome!!!,FOOD#QUALITY,positive
+Thumbs up all the way!!!,RESTAURANT#GENERAL,positive
+Pasta tasteless.,FOOD#QUALITY,negative
+Mushroom watery and lemon tea need to ask for extra lemon.,FOOD#QUALITY,negative
+Mushroom watery and lemon tea need to ask for extra lemon.,DRINKS#QUALITY,negative
+Super bad!,FOOD#QUALITY,negative
+Dun try!,RESTAURANT#GENERAL,negative
+Great South Indian vegetarian fare!,FOOD#QUALITY,positive
+Best soy coffee!,DRINKS#QUALITY,positive
+Delicious!,FOOD#QUALITY,positive
+Surprisingly good bourbon list.,DRINKS#STYLE_OPTIONS,positive
+No fries!,FOOD#STYLE_OPTIONS,negative
+"Burgers with extra pickles, onion rings and the chocolate shake are the best ever!!!! :) A must try if in the area.",FOOD#QUALITY,positive
+"Burgers with extra pickles, onion rings and the chocolate shake are the best ever!!!! :) A must try if in the area.",FOOD#QUALITY,positive
+"Burgers with extra pickles, onion rings and the chocolate shake are the best ever!!!! :) A must try if in the area.",DRINKS#QUALITY,positive
+"Burgers with extra pickles, onion rings and the chocolate shake are the best ever!!!! :) A must try if in the area.",RESTAURANT#GENERAL,positive
+Great spiced apple drink.,DRINKS#QUALITY,positive
+Try ice vanilla latte and chic o cheese,DRINKS#QUALITY,positive
+Try ice vanilla latte and chic o cheese,FOOD#STYLE_OPTIONS,positive
+Pretty cool!!,RESTAURANT#GENERAL,positive
+A good cafe to rest in after a tiring walk in Mecca Mall,RESTAURANT#GENERAL,positive
+Great food.,FOOD#QUALITY,positive
+Excellent service.,SERVICE#GENERAL,positive
+Great prices,RESTAURANT#PRICES,positive
+One Double cheeseBK n Nice outdoor atmosphere ^^ #HomeyBali,AMBIENCE#GENERAL,positive
+One Double cheeseBK n Nice outdoor atmosphere ^^ #HomeyBali,FOOD#QUALITY,positive
+Get the home made lime/mint lemonade!,DRINKS#QUALITY,positive
+Ben here 4 times in last month.,RESTAURANT#GENERAL,positive
+Excellent sushi and old fashions.,FOOD#QUALITY,positive
+Excellent sushi and old fashions.,AMBIENCE#GENERAL,positive
+Music is way too loud for dining though!,AMBIENCE#GENERAL,negative
+Turn it down a tad for eating please!,AMBIENCE#GENERAL,negative
+"Best wings, rolling to a spot near you.",FOOD#QUALITY,positive
+"If you're a lover of all things pumpkin, try the pumpkin bagel with the pumpkin cream cheese when they're in season!",FOOD#QUALITY,positive
+Did this..Love it.,RESTAURANT#GENERAL,positive
+Chips and wam salsa.,FOOD#QUALITY,positive
+Chips and wam salsa.,FOOD#QUALITY,positive
+Delicious!,FOOD#QUALITY,positive
+Try the calamari Taco n add some hot sauce..delicious!!,FOOD#QUALITY,positive
+"The chocolate babka is amazing- buttery, plenty of chocolate & stays moist (even when left open on a counter)!!",FOOD#QUALITY,positive
+"Beers all over the world, cool place",DRINKS#STYLE_OPTIONS,positive
+"Beers all over the world, cool place",RESTAURANT#GENERAL,positive
+Nice place.,RESTAURANT#GENERAL,positive
+Good coffee not bad prices.,DRINKS#QUALITY,positive
+Good coffee not bad prices.,RESTAURANT#PRICES,positive
+But the menu could do with a redesign.,FOOD#STYLE_OPTIONS,negative
+Good food.,FOOD#QUALITY,positive
+Parking can be a real pain!,RESTAURANT#MISCELLANEOUS,negative
+The red beans and rice are DELICIOUS.. better than Pat O'Briens.,FOOD#QUALITY,positive
+The red beans and rice are DELICIOUS.. better than Pat O'Briens.,FOOD#QUALITY,positive
+This is my fourth time here.,RESTAURANT#GENERAL,positive
+Gets better every single time.,RESTAURANT#GENERAL,positive
+Must try shrimp avoid salad and Nutella Tiramissu.,FOOD#QUALITY,positive
+Must try shrimp avoid salad and Nutella Tiramissu.,FOOD#QUALITY,negative
+Must try shrimp avoid salad and Nutella Tiramissu.,FOOD#QUALITY,negative
+Enjoy!,RESTAURANT#GENERAL,positive
+This is Mexican food done right.,FOOD#QUALITY,positive
+But If you want tortillas they will charge you for mere 2 tortillas (that is not right),RESTAURANT#PRICES,negative
+Waitress wears flip flop.,SERVICE#GENERAL,negative
+Doesn't know how to properly pour water out of a pitcher.,SERVICE#GENERAL,negative
+Food was good though.,FOOD#QUALITY,positive
+Such a beautiful place,AMBIENCE#GENERAL,positive
+The guys here will give you a hard time with the check in special.,SERVICE#GENERAL,negative
+"Chicken teriyaki is good, vegetables nicely preppes, good serving portion, price friendly",FOOD#QUALITY,positive
+"Chicken teriyaki is good, vegetables nicely preppes, good serving portion, price friendly",FOOD#QUALITY,positive
+"Chicken teriyaki is good, vegetables nicely preppes, good serving portion, price friendly",FOOD#STYLE_OPTIONS,positive
+If you're looking for homemade local food.,FOOD#QUALITY,positive
+"Thats the address.You should try ""keskek"" which is a traditional food.",RESTAURANT#GENERAL,positive
+"Thats the address.You should try ""keskek"" which is a traditional food.",FOOD#QUALITY,positive
+The Red Velvet Waffles are to die for!,FOOD#QUALITY,positive
+"The owner, Whitney, suggested the small pies for client thank you gifts.",SERVICE#GENERAL,positive
+"The owner, Whitney, suggested the small pies for client thank you gifts.",FOOD#QUALITY,positive
+"I tried the Dutch Apple, it was DELICIOUS!!!",FOOD#QUALITY,positive
+Medium coffee + oatmeal for $3.50 = a great way to start the day.,RESTAURANT#PRICES,positive
+"Really excellent beer selection, solid food choices, and probably the worst music ever.",DRINKS#STYLE_OPTIONS,positive
+"Really excellent beer selection, solid food choices, and probably the worst music ever.",FOOD#STYLE_OPTIONS,positive
+"Really excellent beer selection, solid food choices, and probably the worst music ever.",AMBIENCE#GENERAL,negative
+"Soo tasty meze, great balcony overviewing the bay",FOOD#QUALITY,positive
+"Soo tasty meze, great balcony overviewing the bay",LOCATION#GENERAL,positive
+This McDonald's is slow.,SERVICE#GENERAL,negative
+Get the Atticus Finch.,FOOD#QUALITY,positive
+These burgers are the shit!,FOOD#QUALITY,negative
+"Forget Grill'd , Forget all other burger joints in Melbourne.",RESTAURANT#GENERAL,negative
+Danny's Burgers is where its at!,RESTAURANT#GENERAL,positive
+Avoid the butter chicken unless you want a bowl of microwaved stodge with no taste and fatty chicken.,FOOD#QUALITY,negative
+Not to mention the stale bread!,FOOD#QUALITY,negative
+On the plus side service was lightening fast!,SERVICE#GENERAL,negative
+Always great service up in the bar.,SERVICE#GENERAL,positive
+Love the Chicago 7 calzone.,FOOD#QUALITY,positive
+The chicken wing is the best xD yums <3,FOOD#QUALITY,positive
+Awesome Chicken Greek Salad,FOOD#QUALITY,positive
+Breakfast was awful.,FOOD#QUALITY,negative
+No server came to greet us the whole hour our three person party was there which meant we couldn't order any hot food.,SERVICE#GENERAL,negative
+Every table was dirty and food that was out was old.,AMBIENCE#GENERAL,negative
+Every table was dirty and food that was out was old.,FOOD#QUALITY,negative
+"Great food, kids are too loud......",FOOD#QUALITY,positive
+"Great food, kids are too loud......",AMBIENCE#GENERAL,negative
+The shrimp risotto off the dinner menu is EPIC,FOOD#QUALITY,positive
+"Great breakfasts in a nice furnished cafè, slightly bohemian.",FOOD#QUALITY,positive
+"Great breakfasts in a nice furnished cafè, slightly bohemian.",AMBIENCE#GENERAL,positive
+Staff was friendly and they have free wifi.,SERVICE#GENERAL,positive
+Everything is organic and they have a great selection of jams.,FOOD#STYLE_OPTIONS,positive
+Everything is organic and they have a great selection of jams.,FOOD#STYLE_OPTIONS,positive
+Their beef salpicao is delicious!,FOOD#QUALITY,positive
+Good ambience and fast service!,AMBIENCE#GENERAL,positive
+Good ambience and fast service!,SERVICE#GENERAL,positive
+We love it!,RESTAURANT#GENERAL,positive
+"It's a nice place,quiet and comfortable with nice people and good food...I recommend.",AMBIENCE#GENERAL,positive
+"It's a nice place,quiet and comfortable with nice people and good food...I recommend.",AMBIENCE#GENERAL,positive
+"It's a nice place,quiet and comfortable with nice people and good food...I recommend.",FOOD#QUALITY,positive
+"It's a nice place,quiet and comfortable with nice people and good food...I recommend.",RESTAURANT#GENERAL,positive
+Great fresh food.,FOOD#QUALITY,positive
+"Nice simple place, fish and sea food available, prices are fine and easy to park.",RESTAURANT#GENERAL,positive
+"Nice simple place, fish and sea food available, prices are fine and easy to park.",RESTAURANT#PRICES,positive
+"Nice simple place, fish and sea food available, prices are fine and easy to park.",LOCATION#GENERAL,positive
+Give it a try when around bathing.,RESTAURANT#GENERAL,positive
+"10/10, would consume caffeine here again.",DRINKS#QUALITY,positive
+Best pizza in town!,FOOD#QUALITY,positive
+Excellent wings and salad!,FOOD#QUALITY,positive
+Excellent wings and salad!,FOOD#QUALITY,positive
+Great lunch specials!,FOOD#QUALITY,positive
+"Place is very clean, amazing service an atmosphere looking forward to going back to try brunch!",AMBIENCE#GENERAL,positive
+"Place is very clean, amazing service an atmosphere looking forward to going back to try brunch!",SERVICE#GENERAL,positive
+"Place is very clean, amazing service an atmosphere looking forward to going back to try brunch!",AMBIENCE#GENERAL,positive
+Very unprofessional...,SERVICE#GENERAL,negative
+"I called to make a reservatiom and they said that they did not take any reservation, but when I came directly, they said it was fully booked...",SERVICE#GENERAL,negative
+Service here is great all the time :),SERVICE#GENERAL,positive
+This place rocks!,RESTAURANT#GENERAL,positive
+Great view of Crab Island as u enjoy a great fish sandwich with a cold one!,LOCATION#GENERAL,positive
+Great view of Crab Island as u enjoy a great fish sandwich with a cold one!,FOOD#QUALITY,positive
+Wash down a tuna tartar with an Ion martini!,FOOD#QUALITY,positive
+Wash down a tuna tartar with an Ion martini!,DRINKS#QUALITY,positive
+You'll love this electrolyte enhanced vodka!,DRINKS#QUALITY,positive
+"Service is terrible, sadly it is not the managements fault.",SERVICE#GENERAL,negative
+"Service is terrible, sadly it is not the managements fault.",SERVICE#GENERAL,neutral
+There is just no respect shown by the general staff.,SERVICE#GENERAL,negative
+Great food!,FOOD#QUALITY,positive
+"Fair price, good ambiance and live music.",AMBIENCE#GENERAL,positive
+"Fair price, good ambiance and live music.",AMBIENCE#GENERAL,positive
+"Fair price, good ambiance and live music.",RESTAURANT#PRICES,positive
+"Best wine in town, we will be back for more.",DRINKS#QUALITY,positive
+Get a calzone.,FOOD#QUALITY,positive
+They're 10 dollars but the size of a small baby.,FOOD#STYLE_OPTIONS,positive
+"Lovely food, good portions, friendly staff.",FOOD#QUALITY,positive
+"Lovely food, good portions, friendly staff.",FOOD#STYLE_OPTIONS,positive
+"Lovely food, good portions, friendly staff.",SERVICE#GENERAL,positive
+Recommended!,RESTAURANT#GENERAL,positive
+Serves a wide range of cooked and grilled meals daily till 6 pm.,FOOD#STYLE_OPTIONS,positive
+Value for money.,RESTAURANT#PRICES,positive
+Value for money.,RESTAURANT#GENERAL,positive
+"Try the cakes (the large ones), especially the one with forest fruits and chocolate.",FOOD#QUALITY,positive
+"This was the worst Brazilian BBQ I,ve ever been to.",FOOD#QUALITY,negative
+The meatshadno flavor and the chicken was completely dry.,FOOD#QUALITY,negative
+The meatshadno flavor and the chicken was completely dry.,FOOD#QUALITY,negative
+"Awful experience, the waitress was too busy taking care of other tables.",SERVICE#GENERAL,negative
+"Awful experience, the waitress was too busy taking care of other tables.",RESTAURANT#GENERAL,negative
+Don't come here.,RESTAURANT#GENERAL,negative
+The ceviche is amazing.,FOOD#QUALITY,positive
+Worth it!,RESTAURANT#GENERAL,positive
+You got to try the new Brioche specials :),FOOD#QUALITY,positive
+The Prosciutto sandwich is the Jam.,FOOD#QUALITY,positive
+Petifores (sp) are the way to go!,FOOD#QUALITY,positive
+The center cut filet is a MUST if you're here for dinner.,FOOD#QUALITY,positive
+"If you find yourself here for brunch, the French toast is the way to go.",FOOD#QUALITY,positive
+"It can get busy-no worries, free mimosas during your wait!",RESTAURANT#GENERAL,positive
+Great cake here..,FOOD#QUALITY,positive
+It's a chain yes but feels more organic than Starbucks,FOOD#QUALITY,positive
+Herb and bacon cream cheese.,FOOD#QUALITY,positive
+Ikura Oroshi is amazing.,FOOD#QUALITY,positive
+It made me come back twice.,FOOD#QUALITY,positive
+The second time I also discovered the black miso cod.,FOOD#QUALITY,positive
+"Best cakes,, try the mini chocolate buttons <3 I also love their red-velvet cakes <33",FOOD#QUALITY,positive
+"Best cakes,, try the mini chocolate buttons <3 I also love their red-velvet cakes <33",FOOD#QUALITY,positive
+"Best cakes,, try the mini chocolate buttons <3 I also love their red-velvet cakes <33",FOOD#QUALITY,positive
+Pancakes are very tasty.,FOOD#QUALITY,positive
+You have to try their Spanish Latte!,FOOD#QUALITY,positive
+"Medicore sushi, not special on taste nor variety and beamwallet doesn't work if you are considering it.",FOOD#QUALITY,neutral
+"Medicore sushi, not special on taste nor variety and beamwallet doesn't work if you are considering it.",RESTAURANT#MISCELLANEOUS,negative
+Overall bad experience and waiting for management to rectify the beamwallet issue.,SERVICE#GENERAL,negative
+Overall bad experience and waiting for management to rectify the beamwallet issue.,RESTAURANT#GENERAL,negative
+Be in Efes for 2nd time same as last time great food great Mr. Ramadan.,FOOD#QUALITY,positive
+Highly recommended,RESTAURANT#GENERAL,positive
+"Dude, Alex makes the best coffee! and he's awfully forceful when it comes to chocolate croissants.",SERVICE#GENERAL,positive
+"Dude, Alex makes the best coffee! and he's awfully forceful when it comes to chocolate croissants.",DRINKS#QUALITY,positive
+Excellent service.,SERVICE#GENERAL,positive
+Very nice service and these biscuits are delicious!,SERVICE#GENERAL,positive
+Very nice service and these biscuits are delicious!,FOOD#QUALITY,positive
+Lousy !!!!!,RESTAURANT#GENERAL,negative
+Garlic and herbs crab + shrimp manchurian + oyster :victory_hand:,FOOD#QUALITY,positive
+Garlic and herbs crab + shrimp manchurian + oyster :victory_hand:,FOOD#QUALITY,positive
+Garlic and herbs crab + shrimp manchurian + oyster :victory_hand:,FOOD#QUALITY,positive
+Great Happy Hour!,RESTAURANT#MISCELLANEOUS,positive
+Absolute favourite hotpot in town!,RESTAURANT#GENERAL,positive
+"Great great food, not too pricey, good service and nice location near the center of the resort and the beach.",FOOD#QUALITY,positive
+"Great great food, not too pricey, good service and nice location near the center of the resort and the beach.",SERVICE#GENERAL,positive
+"Great great food, not too pricey, good service and nice location near the center of the resort and the beach.",LOCATION#GENERAL,positive
+"Great great food, not too pricey, good service and nice location near the center of the resort and the beach.",RESTAURANT#PRICES,positive
+Totally recommended.,RESTAURANT#GENERAL,positive
+"Go to sandwich bar for lunch and split it with someone, they give big portions for a good price",FOOD#STYLE_OPTIONS,positive
+"Go to sandwich bar for lunch and split it with someone, they give big portions for a good price",FOOD#PRICES,positive
+Margaritas are so strong and I swear there's something not right about them.,DRINKS#QUALITY,negative
+Delicious!,FOOD#QUALITY,positive
+Great service and coffee.,SERVICE#GENERAL,positive
+Great service and coffee.,DRINKS#QUALITY,positive
+"Often crowded and few tables, but cozy.",AMBIENCE#GENERAL,negative
+"Often crowded and few tables, but cozy.",AMBIENCE#GENERAL,positive
+"Often crowded and few tables, but cozy.",AMBIENCE#GENERAL,negative
+I always go for the Pepper Lunch Express...always the best beef pepper rice upsize meal....,RESTAURANT#GENERAL,positive
+I always go for the Pepper Lunch Express...always the best beef pepper rice upsize meal....,FOOD#QUALITY,positive
+I always go for the Pepper Lunch Express...always the best beef pepper rice upsize meal....,FOOD#STYLE_OPTIONS,positive
+Feel friendly,AMBIENCE#GENERAL,positive
+The staff...from the host to the bartender...were very lovely.,SERVICE#GENERAL,positive
+The staff...from the host to the bartender...were very lovely.,SERVICE#GENERAL,positive
+The staff...from the host to the bartender...were very lovely.,SERVICE#GENERAL,positive
+I appreciated their positive energy and sincereness of how much they liked their job.,SERVICE#GENERAL,positive
+Scones are highly recommended both plain and seasonal.,FOOD#QUALITY,positive
+"Plus, royal milk tea cake tastes so good, not too sweet.",FOOD#QUALITY,positive
+Here is such a cute and cozy cafe in the heart of Bangkok.,RESTAURANT#GENERAL,positive
+Me like :),RESTAURANT#GENERAL,positive
+The stuffed pizza rawks,FOOD#QUALITY,positive
+"Try anything, either sweet or salty, tastes amazing and all home made!",FOOD#QUALITY,positive
+Nomnom.,FOOD#QUALITY,positive
+The scallops are fantastic.,FOOD#QUALITY,positive
+Have a bottle of Newton Chardonnay to go with it.,DRINKS#QUALITY,positive
+Try the bacon.,FOOD#QUALITY,positive
+It costs more than usual but so worth it.,RESTAURANT#GENERAL,positive
+It costs more than usual but so worth it.,RESTAURANT#PRICES,negative
+"Really thick cuts done at order time, great smoky taste.",FOOD#QUALITY,positive
+"Really thick cuts done at order time, great smoky taste.",FOOD#STYLE_OPTIONS,positive
+Worth the extra cost.,RESTAURANT#GENERAL,positive
+Its amazing,RESTAURANT#GENERAL,positive
+Best Gyro and Baklava in town!!!,FOOD#QUALITY,positive
+Best Gyro and Baklava in town!!!,FOOD#QUALITY,positive
+Alex is a very awesome man!!,SERVICE#GENERAL,positive
+Coffee with hazelnut is intoxicating,DRINKS#QUALITY,positive
+One of a great Taiwanese Steamboat.,RESTAURANT#GENERAL,positive
+Love the solid herbal soup base n the spicy soup is also jus nice.,FOOD#QUALITY,positive
+Love the solid herbal soup base n the spicy soup is also jus nice.,FOOD#QUALITY,positive
+Good enought to enjoy throughout.,FOOD#QUALITY,positive
+Set back is too expensive,RESTAURANT#PRICES,negative
+Fried oyster sliders will change your life.,FOOD#QUALITY,positive
+Check out the All In burger!,FOOD#QUALITY,positive
+"Also, their potato salad is fantastic!",FOOD#QUALITY,positive
+"Ask for Caryn or Kristen, they are the best servers!",SERVICE#GENERAL,positive
+"Ask for Caryn or Kristen, they are the best servers!",SERVICE#GENERAL,positive
+Their house-made honey-nougat ice cream really tasted much better than the commercial ice creams out there!,FOOD#QUALITY,positive
+Try the mix fruit juice.,DRINKS#QUALITY,positive
+The passion tea is yum!,DRINKS#QUALITY,positive
+No caffeine or sugar (unless ya sweeten it!) and very refreshing.,DRINKS#QUALITY,positive
+The three amigos enchiladas are GREAT!,FOOD#QUALITY,positive
+Wednesdays wine and beer are 1/2 off after 3pm :) #vegas #townsquare @crazypita,DRINKS#PRICES,positive
+Wednesdays wine and beer are 1/2 off after 3pm :) #vegas #townsquare @crazypita,DRINKS#PRICES,positive
+They deliver!,SERVICE#GENERAL,positive
+Very cool vibe and a great dessert/coffee selection.,AMBIENCE#GENERAL,positive
+Very cool vibe and a great dessert/coffee selection.,FOOD#STYLE_OPTIONS,positive
+Very cool vibe and a great dessert/coffee selection.,DRINKS#STYLE_OPTIONS,positive
+One of my favourite when I come here is mee bandung.,FOOD#QUALITY,positive
+The best mee bandung in town..,FOOD#QUALITY,positive
+Kelantanesse okay yg masak!,FOOD#QUALITY,positive
+Omnomnomnom,FOOD#STYLE_OPTIONS,positive
+"Try the Tea Latte's, It's refreshing and calming",DRINKS#QUALITY,positive
+Get ready to wait 1 hour for a bad hamburger!,FOOD#QUALITY,negative
+Get ready to wait 1 hour for a bad hamburger!,SERVICE#GENERAL,negative
+"Beat chicken wing, one of the restaurant tauke soh (woman) attitude very rude !!",FOOD#QUALITY,positive
+"Beat chicken wing, one of the restaurant tauke soh (woman) attitude very rude !!",SERVICE#GENERAL,negative
+When she write down ur orders her face macam tak puas,SERVICE#GENERAL,negative
+"Nice and cosy bar, cafe!",AMBIENCE#GENERAL,positive
+"Nice and cosy bar, cafe!",RESTAURANT#GENERAL,positive
+Horrible food..,FOOD#QUALITY,positive
+And service as well ..,SERVICE#GENERAL,negative
+Picanha show !!!!!!,FOOD#QUALITY,negative
+Perfect margarita will destroy you (in a good way),DRINKS#QUALITY,positive
+Great tapas and cheap beers...,FOOD#QUALITY,positive
+Great tapas and cheap beers...,DRINKS#PRICES,positive
+And it tasted wonderful,FOOD#QUALITY,positive
+"Try the Asado Beef Ribs, the Lokum Beef and the Atnep Baklava for desserts.",FOOD#QUALITY,positive
+"Try the Asado Beef Ribs, the Lokum Beef and the Atnep Baklava for desserts.",FOOD#QUALITY,positive
+"Try the Asado Beef Ribs, the Lokum Beef and the Atnep Baklava for desserts.",FOOD#QUALITY,positive
+"Great coffee, beautiful space!",DRINKS#QUALITY,positive
+"Great coffee, beautiful space!",AMBIENCE#GENERAL,positive
+Best chicken ever,FOOD#QUALITY,positive
+Awesome service and affordable! 12 pieces of sashimi for ten bux!,SERVICE#GENERAL,positive
+Awesome service and affordable! 12 pieces of sashimi for ten bux!,RESTAURANT#PRICES,positive
+Awesome service and affordable! 12 pieces of sashimi for ten bux!,FOOD#PRICES,positive
+Good place to try your first coffee in Vienne.,DRINKS#QUALITY,positive
+Good place to try your first coffee in Vienne.,RESTAURANT#GENERAL,positive
+"Only coffee shop in area, making it crazy in AM M-F.",AMBIENCE#GENERAL,negative
+Drive thru slow even on weekends.,SERVICE#GENERAL,negative
+Inside usually faster but not always.,SERVICE#GENERAL,neutral
+The mushroom crostini is OUT of this world.,FOOD#QUALITY,positive
+No joke - surpasses every other crostini we tried by a long shot.,FOOD#QUALITY,positive
+Don't ask for a cup of water to go with your $10 purchase.,SERVICE#GENERAL,negative
+"Apparently there's no time to help customers with 2 employees and 0 line, but plenty of time to worry about ""rules"" against ""free cups""",SERVICE#GENERAL,negative
+Pitas are incredibly tasty but avoid the lentil soup at all costs.,FOOD#QUALITY,positive
+Pitas are incredibly tasty but avoid the lentil soup at all costs.,FOOD#QUALITY,negative
+They honor restaurant.com certificates everyday!,RESTAURANT#GENERAL,positive
+"Gunkan Crujiente, boys! an apetizer yiu won't regret!!!",FOOD#QUALITY,positive
+"Gunkan Crujiente, boys! an apetizer yiu won't regret!!!",FOOD#QUALITY,positive
+Always yummy!,FOOD#QUALITY,positive
+Nice food...,FOOD#QUALITY,positive
+Hmmm lasagna's nothing to write home about....,FOOD#QUALITY,negative
+Very very nice interior.,AMBIENCE#GENERAL,positive
+Coffee is a little bit too light.,DRINKS#QUALITY,negative
+Bruno dough is the yummiest!,FOOD#QUALITY,positive
+Come hungry!,FOOD#QUALITY,positive
+Best 1/2 & 1/2's in town!,DRINKS#QUALITY,positive
+You can't find any place that serves the warm veal tongue here in KL!,FOOD#QUALITY,positive
+It is tender and taste really good!,FOOD#QUALITY,positive
+Melts in your mouth!!!,FOOD#QUALITY,positive
+Dog friendly!!!!,RESTAURANT#MISCELLANEOUS,positive
+"If you want the best Japanese Ramen restaurant, please visit Ureshii Kitchen!!",RESTAURANT#GENERAL,positive
+For vegans: Get the grilled portabella vegetarian sandwich minus the cheese & mayo,FOOD#QUALITY,positive
+Try the chocolate mouse - so good.,FOOD#QUALITY,positive
+The trivia games at the table-side iPads are fun by watch out!,AMBIENCE#GENERAL,positive
+"You will have ""entertainment"" charges on your bill that are NOT explained on the iPad interface before you start playing the games!",RESTAURANT#PRICES,negative
+get the mexican hot chocolate here. it's something special,DRINKS#QUALITY,positive
+get the mexican hot chocolate here. it's something special,DRINKS#QUALITY,positive
+The head chef makes good eveything.,FOOD#QUALITY,positive
+"Try the deserts too, great crem brule.",FOOD#QUALITY,positive
+"Try the deserts too, great crem brule.",FOOD#QUALITY,positive
+Great food but slooooooowest service ever!!!,FOOD#QUALITY,positive
+Great food but slooooooowest service ever!!!,SERVICE#GENERAL,negative
+$3 Burgers On Wednesdays,FOOD#PRICES,positive
+THAI ICED COFFEE!!,DRINKS#QUALITY,positive
+It's amazing!,DRINKS#QUALITY,positive
+This is such an awesome little place.,RESTAURANT#GENERAL,positive
+Good is good!,FOOD#QUALITY,positive
+You can't go wrong.,RESTAURANT#GENERAL,positive
+Ate here many times when in Petoskey!,RESTAURANT#GENERAL,positive
+I have to drive an hour to get here and it's always worth it.,RESTAURANT#GENERAL,positive
+Their BBQ pork buns are SUPER tasty.,FOOD#QUALITY,positive
+And the bubble tea is so delicious.,DRINKS#QUALITY,positive
+Spicy lobster roll is amazing.,FOOD#QUALITY,positive
+the jerk tofu wrap is spicy...and delicious,FOOD#QUALITY,positive
+Great tasting burger.,FOOD#QUALITY,positive
+The Parmesan chips with truffle sauce were crunchy and yummy.,FOOD#QUALITY,positive
+Not bad .. delicious french fries :OK_hand:,FOOD#QUALITY,positive
+"If you shop at the Giant next door before you eat, you can frequently get a $5 off coupon good off of any $20 purchase.",RESTAURANT#MISCELLANEOUS,positive
+Cheesy ravioli is the best,FOOD#QUALITY,positive
+gobblerito: thanksgiving season special.,FOOD#QUALITY,positive
+Try it.,FOOD#QUALITY,positive
+"Get the pasta portofino salad and iced mocha, and hang out for a little while.",FOOD#QUALITY,positive
+"Get the pasta portofino salad and iced mocha, and hang out for a little while.",FOOD#QUALITY,positive
+The Gipsy Kings playing in the background will make up for there being no Internet.,AMBIENCE#GENERAL,positive
+The Gipsy Kings playing in the background will make up for there being no Internet.,RESTAURANT#MISCELLANEOUS,negative
+Amazing view and great BLAT sandwich as well as California burger.,LOCATION#GENERAL,positive
+Amazing view and great BLAT sandwich as well as California burger.,FOOD#QUALITY,positive
+Amazing view and great BLAT sandwich as well as California burger.,FOOD#QUALITY,positive
+Great rest stop!,RESTAURANT#GENERAL,positive
+Super friendly staff! & tasty sandwiches.,SERVICE#GENERAL,positive
+Super friendly staff! & tasty sandwiches.,FOOD#QUALITY,positive
+Try Montagnard,FOOD#QUALITY,positive
+Awesome dumplings!,FOOD#QUALITY,positive
+Good service! ^^,FOOD#QUALITY,positive
+Good service! ^^,RESTAURANT#GENERAL,positive
+PB&J shake is a must!,DRINKS#QUALITY,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",AMBIENCE#GENERAL,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",RESTAURANT#GENERAL,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",AMBIENCE#GENERAL,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",AMBIENCE#GENERAL,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",AMBIENCE#GENERAL,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",DRINKS#QUALITY,positive
+"Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",AMBIENCE#GENERAL,positive
+Great staff!,SERVICE#GENERAL,positive
+Very fun and friendly...been going here for years.,AMBIENCE#GENERAL,positive
+"Im solved :p , for the record..burgers are tasty, and the staff are very welcoming ;)",FOOD#QUALITY,positive
+"Im solved :p , for the record..burgers are tasty, and the staff are very welcoming ;)",SERVICE#GENERAL,positive
+Not as bad as the reviews looks like 3 pricks over reviewing,RESTAURANT#GENERAL,neutral
+Basically lived here for a week.,RESTAURANT#GENERAL,positive
+Awesome place that captures the European cafe culture.,RESTAURANT#GENERAL,positive
+Awesome place that captures the European cafe culture.,AMBIENCE#GENERAL,positive
+Also BEST croissant I've ever had! :),FOOD#QUALITY,positive
+Also BEST croissant I've ever had! :),RESTAURANT#GENERAL,positive
+"Great food, one of the best, awesome presentation of food!!!",FOOD#QUALITY,positive
+"Great food, one of the best, awesome presentation of food!!!",FOOD#STYLE_OPTIONS,positive
+Good service to,SERVICE#GENERAL,positive
+They have the best Schawarma in UAE.,FOOD#QUALITY,positive
+"As much as I love the food here, I absolutely do not recommend it anytime it's anything other than completely dead.",FOOD#QUALITY,positive
+"As much as I love the food here, I absolutely do not recommend it anytime it's anything other than completely dead.",SERVICE#GENERAL,negative
+They ALWAYS mess up my order and leave me waiting far too long.,SERVICE#GENERAL,negative
+"This new Birmingham restaurant just opened, but the comforting European-influenced food and carefully curated children's menu are already drawing local attention.",FOOD#QUALITY,positive
+"This new Birmingham restaurant just opened, but the comforting European-influenced food and carefully curated children's menu are already drawing local attention.",FOOD#STYLE_OPTIONS,positive
+Eat here the meze from the chef or try the retsina plate,FOOD#QUALITY,positive
+Eat here the meze from the chef or try the retsina plate,FOOD#QUALITY,positive
+Kevin is by far one of the best bartenders in the business.,SERVICE#GENERAL,positive
+"Very friendly staff and good service, We were there Monday lunch, 3 March 2014, forgot to ask her name.",SERVICE#GENERAL,positive
+"Very friendly staff and good service, We were there Monday lunch, 3 March 2014, forgot to ask her name.",SERVICE#GENERAL,positive
+She is working only by herself but still working with smile.,SERVICE#GENERAL,positive
+Need more staff there.,SERVICE#GENERAL,negative
+There is a huge variety of food and drinks half off.,FOOD#STYLE_OPTIONS,positive
+There is a huge variety of food and drinks half off.,DRINKS#STYLE_OPTIONS,positive
+"wonderful ""Historic"" dining experience...",RESTAURANT#GENERAL,positive
+The pub is perfect for a quick bite and drink.,RESTAURANT#GENERAL,positive
+"If you haven't experienced the dinner theater and formal dining experience, you're in for a treat!",SERVICE#GENERAL,positive
+"Dude,,one one the 3 best margaritas in the world.",DRINKS#QUALITY,positive
+There's always a lot of people but its worth the wait!,RESTAURANT#GENERAL,positive
+There's always a lot of people but its worth the wait!,AMBIENCE#GENERAL,negative
+I love the potato balls and the baked ham and cheese croissants!,FOOD#QUALITY,positive
+I love the potato balls and the baked ham and cheese croissants!,FOOD#QUALITY,positive
+Cheese rolls with guava!,FOOD#QUALITY,positive
+Love the cheese tart ..<3,FOOD#QUALITY,positive
+Art cafe nice vienna atmosphere,AMBIENCE#GENERAL,positive
+"Splitting the big breakfast with a friend is awesome, affordable, and will full up just about anybody.",FOOD#QUALITY,positive
+"Splitting the big breakfast with a friend is awesome, affordable, and will full up just about anybody.",FOOD#STYLE_OPTIONS,positive
+"Splitting the big breakfast with a friend is awesome, affordable, and will full up just about anybody.",FOOD#PRICES,positive
+Always fast and friendly!,SERVICE#GENERAL,positive
+The food can't be beat.,FOOD#QUALITY,positive
+Best Arby's on Telegraph!,RESTAURANT#GENERAL,positive
+Shitty service,SERVICE#GENERAL,negative
+the food is 10/10 :clapping_hands::clapping_hands:,FOOD#QUALITY,positive
+Breakfast burrito never let's me down.,FOOD#QUALITY,positive
+The chorizo is a must!!,FOOD#QUALITY,positive
+Great food,FOOD#QUALITY,positive
+The tenderloin is Oh.,FOOD#QUALITY,positive
+Good.,FOOD#QUALITY,positive
+This place is the real deal.,RESTAURANT#PRICES,positive
+awesome old school italian! super welcoming staff. loved it. fast & cozy for lunch.,RESTAURANT#GENERAL,positive
+awesome old school italian! super welcoming staff. loved it. fast & cozy for lunch.,SERVICE#GENERAL,positive
+awesome old school italian! super welcoming staff. loved it. fast & cozy for lunch.,SERVICE#GENERAL,positive
+awesome old school italian! super welcoming staff. loved it. fast & cozy for lunch.,AMBIENCE#GENERAL,positive
+"This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(",RESTAURANT#GENERAL,negative
+"This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(",SERVICE#GENERAL,negative
+"This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(",FOOD#QUALITY,negative
+"This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(",FOOD#STYLE_OPTIONS,negative
+"This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(",RESTAURANT#PRICES,negative
+Great place for a quiet lunch near the perimeter that is NOT a chain or forcing you to fight traffic.,RESTAURANT#GENERAL,positive
+The salads here are the best!,FOOD#QUALITY,positive
+Possibly the best bistro in Brooklyn.,RESTAURANT#GENERAL,positive
+Awesome cajun chicken + gumbo.,FOOD#QUALITY,positive
+Order the beignets (suggested by Becky)-you will not be disappointed,FOOD#QUALITY,positive
+Order the beignets (suggested by Becky)-you will not be disappointed,SERVICE#GENERAL,positive
+Try the orange chicken!!,FOOD#QUALITY,positive
+Nice shisha .. give it a try.,FOOD#QUALITY,positive
+Best coffee on the NH-45,DRINKS#QUALITY,positive
+Get the cheese plate.,FOOD#QUALITY,positive
+Best $12 I have ever spent.,RESTAURANT#GENERAL,positive
+Best $12 I have ever spent.,RESTAURANT#PRICES,positive
+Biryani at this place makes you feel like at Hyderabad,FOOD#QUALITY,positive
+The ice cream is fantastic and it's cheaper than Grom.,FOOD#QUALITY,positive
+The ice cream is fantastic and it's cheaper than Grom.,RESTAURANT#PRICES,positive
+One of my top 3 ice creams in torino.,FOOD#QUALITY,positive
+Chantilly and Nocciola variegato gianduja.,FOOD#QUALITY,positive
+Baristar here r quiet good...,RESTAURANT#GENERAL,positive
+Smooth hot coffee...,DRINKS#QUALITY,positive
+"Nice food, special here r buy 2 pints FREE 1 pints only at RM42++ add 1 more tips here is Segafredo WiFi password is ""sega123456789""",FOOD#QUALITY,positive
+Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...,FOOD#QUALITY,positive
+Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...,FOOD#QUALITY,positive
+Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...,FOOD#QUALITY,negative
+Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...,DRINKS#QUALITY,positive
+Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...,DRINKS#QUALITY,positive
+Sundays kids eat free!,RESTAURANT#PRICES,positive
+"Gourmet Mexican food with nearly 300 tequilas to choose from, descriptions which can be easily accessed on the iPad menus, will be great to drink on the seaside deck (note: don't drop the menu).",DRINKS#STYLE_OPTIONS,positive
+"Gourmet Mexican food with nearly 300 tequilas to choose from, descriptions which can be easily accessed on the iPad menus, will be great to drink on the seaside deck (note: don't drop the menu).",LOCATION#GENERAL,positive
+The ¥200 extra ser includes choice among five side dishes and drinks - good deal in addition to three sizes of taco rice.,FOOD#STYLE_OPTIONS,positive
+The ¥200 extra ser includes choice among five side dishes and drinks - good deal in addition to three sizes of taco rice.,FOOD#STYLE_OPTIONS,positive
+The ¥200 extra ser includes choice among five side dishes and drinks - good deal in addition to three sizes of taco rice.,FOOD#PRICES,positive
+Open till 11:55 so amazing!,RESTAURANT#MISCELLANEOUS,positive
+Duck salad recommended,FOOD#QUALITY,positive
+Coffee is the best at this place..costly though,DRINKS#QUALITY,positive
+Coffee is the best at this place..costly though,DRINKS#PRICES,negative
+Try the chocolate cheese cake..,FOOD#QUALITY,positive
+It's delicious,FOOD#QUALITY,positive
+Gluten free friendly and I can actually order just about anything for my fiancé here that is available to everyone else!,FOOD#STYLE_OPTIONS,positive
+Love how caring they are about allergies!,RESTAURANT#MISCELLANEOUS,positive
+"A review in haiku: They have lots of meat | The filet tastes amazing | Food baby, I have....",FOOD#STYLE_OPTIONS,positive
+"A review in haiku: They have lots of meat | The filet tastes amazing | Food baby, I have....",FOOD#QUALITY,positive
+Homemade cakes in the restaurant are to die for.,FOOD#QUALITY,positive
+Gorgeous .,FOOD#QUALITY,positive
+Quesadilla is to die for here!!!,FOOD#QUALITY,positive
+I keep on coming back just for that!,FOOD#QUALITY,positive
+6 crepes made in 40+ minutes.,SERVICE#GENERAL,negative
+Make sure you have PLENTY of time to eat.,SERVICE#GENERAL,negative
+Excellent western food.,FOOD#QUALITY,positive
+Big oysters and a good po boy.,FOOD#STYLE_OPTIONS,positive
+Big oysters and a good po boy.,FOOD#QUALITY,positive
+Too expensive for average menu,RESTAURANT#PRICES,negative
+Too expensive for average menu,FOOD#QUALITY,neutral
+"Pricey, but delicious.",FOOD#PRICES,positive
+"Pricey, but delicious.",FOOD#QUALITY,positive
+Seriously best buffet I've ever been too.,RESTAURANT#GENERAL,positive
+The drive thru is the weirdest configured drive thru - odd curve to get to window!,RESTAURANT#MISCELLANEOUS,negative
+Pretty much everything is good.,FOOD#QUALITY,positive
+"Great service, good matcha tea",SERVICE#GENERAL,positive
+"Great service, good matcha tea",DRINKS#QUALITY,positive
+One of my favourite Starbucks stores in San Antonio!,RESTAURANT#GENERAL,positive
+"Excellent (and friendly) staff, very clean, and usually just busy enough.",SERVICE#GENERAL,positive
+"Excellent (and friendly) staff, very clean, and usually just busy enough.",AMBIENCE#GENERAL,positive
+Try the Crispy Fried Smelts,FOOD#QUALITY,positive
+4 to 6 most days - great music with the Happy Hour,AMBIENCE#GENERAL,positive
+Been here lots of times.,RESTAURANT#GENERAL,positive
+Slowest starbucks ever.,SERVICE#GENERAL,positive
+"Don't go inside for service, use drive thru.",SERVICE#GENERAL,negative
+I love this ;-),RESTAURANT#GENERAL,positive
+Found alot of baby cockroaches on the wall and even ur dining table!,AMBIENCE#GENERAL,negative
+Very friendly service.,SERVICE#GENERAL,positive
+Apple pie and crab cake :smiling_face_with_heart-eyes:,FOOD#QUALITY,positive
+Apple pie and crab cake :smiling_face_with_heart-eyes:,FOOD#QUALITY,positive
+"The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.",DRINKS#QUALITY,positive
+"The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.",FOOD#STYLE_OPTIONS,positive
+"The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.",FOOD#QUALITY,positive
+"The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.",SERVICE#GENERAL,positive
+"The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.",RESTAURANT#MISCELLANEOUS,positive
+"The waitstaff is crazy, but fun.",SERVICE#GENERAL,positive
+"The waitstaff is crazy, but fun.",SERVICE#GENERAL,positive
+I love it here.,RESTAURANT#GENERAL,positive
+Fabulous new fit out and even better coffee!,DRINKS#QUALITY,positive
+Fabulous new fit out and even better coffee!,AMBIENCE#GENERAL,positive
+The window is s good place to people watch,LOCATION#GENERAL,positive
+The lunch special is a great price and the rolls are delicious.,FOOD#QUALITY,positive
+The lunch special is a great price and the rolls are delicious.,FOOD#PRICES,positive
+One of the best coffee in the area beautiful shop,DRINKS#QUALITY,positive
+One of the best coffee in the area beautiful shop,AMBIENCE#GENERAL,positive
+Best coffee in town.,DRINKS#QUALITY,positive
+Friendly service too!,SERVICE#GENERAL,positive
+Best Burgers in town!,FOOD#QUALITY,positive
+Everything is so fresh and delicious!,FOOD#QUALITY,positive
+My favorite chinese resteraunt....,RESTAURANT#GENERAL,positive
+Avoid the diner it s expensive and not really good!,FOOD#QUALITY,negative
+Avoid the diner it s expensive and not really good!,FOOD#PRICES,negative
+Bug deception,AMBIENCE#GENERAL,positive
+Pumpkin cream cheese donuts rock!,FOOD#QUALITY,positive
+Great food...slow service.,FOOD#QUALITY,positive
+Great food...slow service.,SERVICE#GENERAL,negative
+Must try the vege tomyam curry mee!,FOOD#QUALITY,positive
+One of the few chain places I know that do a Cortado,RESTAURANT#MISCELLANEOUS,neutral
+Best buffet and variety is huge!! <3,FOOD#QUALITY,positive
+Best buffet and variety is huge!! <3,FOOD#STYLE_OPTIONS,positive
+Best buffet and variety is huge!! <3,RESTAURANT#GENERAL,positive
+Best diner in the area.,FOOD#QUALITY,positive
+Good food and friendly service.,FOOD#QUALITY,positive
+Good food and friendly service.,SERVICE#GENERAL,positive
+Their corned beef breakfast is awesome.,FOOD#QUALITY,positive
+Great place...,RESTAURANT#GENERAL,positive
+Great food...,FOOD#QUALITY,positive
+You gotta go!,RESTAURANT#GENERAL,positive
+always like cuppa,RESTAURANT#GENERAL,positive
+"Believe it or not, all the sandwiches that are made in the back where the Deli is are so fresh and delicious especially the hot subs, and the cold cuts you can't beat it.",FOOD#QUALITY,positive
+"Believe it or not, all the sandwiches that are made in the back where the Deli is are so fresh and delicious especially the hot subs, and the cold cuts you can't beat it.",FOOD#QUALITY,positive
+"Believe it or not, all the sandwiches that are made in the back where the Deli is are so fresh and delicious especially the hot subs, and the cold cuts you can't beat it.",FOOD#QUALITY,positive
+"Believe it or not, all the sandwiches that are made in the back where the Deli is are so fresh and delicious especially the hot subs, and the cold cuts you can't beat it.",FOOD#QUALITY,positive
+Pricing is very reasonable!,RESTAURANT#PRICES,positive
+"If it's December and you didn't order a slice of Candy Cane Pie or Gingerbread Pie, you may want to seek out medical attention!",FOOD#QUALITY,positive
+"If it's December and you didn't order a slice of Candy Cane Pie or Gingerbread Pie, you may want to seek out medical attention!",FOOD#QUALITY,positive
+"Great Coffee, Can ring ahead to take away too.",DRINKS#QUALITY,positive
+Had the 3-way cannelloni and it was really delicious!,FOOD#QUALITY,positive
+Very popular...don't get there late unless you're prepared to wait for at least an hour...great food :),FOOD#QUALITY,positive
+Very popular...don't get there late unless you're prepared to wait for at least an hour...great food :),AMBIENCE#GENERAL,positive
+"lunch prix fixe is only $39, add the $10 for the pasta course!",RESTAURANT#PRICES,positive
+The Garlic Bread is delicious try it.. :),FOOD#QUALITY,positive
+The Garlic Bread is delicious try it.. :),RESTAURANT#GENERAL,positive
+best ever appetizer!skillet chip nachos!yum!,FOOD#QUALITY,positive
+best ever appetizer!skillet chip nachos!yum!,FOOD#QUALITY,positive
+the Pescado Burrito is excellent,FOOD#QUALITY,positive
+"The Mozzarella balls are humongous, but pair with the pesto sauces, it's a unique dining experience.",FOOD#STYLE_OPTIONS,positive
+"The Mozzarella balls are humongous, but pair with the pesto sauces, it's a unique dining experience.",FOOD#QUALITY,positive
+good crawfish pies and a cool environment,FOOD#QUALITY,positive
+good crawfish pies and a cool environment,AMBIENCE#GENERAL,positive
+"The sushi is pretty good, but the size of the portions is excessive - hard to eat.",FOOD#QUALITY,positive
+"The sushi is pretty good, but the size of the portions is excessive - hard to eat.",FOOD#STYLE_OPTIONS,negative
+If you want to order a hot beverage ask arthur to draw you something on your cup,SERVICE#GENERAL,positive
+This place is AWESOME for drinks.,DRINKS#QUALITY,positive
+You get a pitcher of sangria for $10 or of beer for $7!,DRINKS#PRICES,positive
+You get a pitcher of sangria for $10 or of beer for $7!,DRINKS#PRICES,positive
+"Check the daily specials, they are really good!",FOOD#QUALITY,positive
+Love the Captain Crunch Nutty Brother.. to die for!,FOOD#QUALITY,positive
+The beer mac and cheese is a huge portion and absolutely delicious.,FOOD#STYLE_OPTIONS,positive
+The beer mac and cheese is a huge portion and absolutely delicious.,FOOD#QUALITY,positive
+must go and stay,RESTAURANT#GENERAL,positive
+Was not rushed out once we finished with our food unlike some of the other local restaurants.,SERVICE#GENERAL,positive
+Food was tasty & fresh.,FOOD#QUALITY,positive
+Thumbs up.,RESTAURANT#GENERAL,positive
+Try the Hot Chick xD Delicious.,FOOD#QUALITY,positive
+No starbucks yes nero,RESTAURANT#GENERAL,negative
+No starbucks yes nero,RESTAURANT#GENERAL,positive
+Loved The Thundercat (burger).,FOOD#QUALITY,positive
+Should check it out.,FOOD#QUALITY,positive
+"Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",AMBIENCE#GENERAL,negative
+"Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",SERVICE#GENERAL,negative
+"Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",FOOD#QUALITY,negative
+"Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",FOOD#QUALITY,positive
+"Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",FOOD#QUALITY,positive
+"Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",DRINKS#QUALITY,positive
+"Excellent and seasonally changing craft beers, brewed on premises in their own microbrewery.",DRINKS#QUALITY,positive
+"The original, pilsener and wheat beer are always available.",FOOD#STYLE_OPTIONS,positive
+"The original, pilsener and wheat beer are always available.",DRINKS#STYLE_OPTIONS,positive
+Excellent choice for beer aficionados.,RESTAURANT#GENERAL,positive
+The best croissants in Bratislava,FOOD#QUALITY,positive
+Nice & Healthy food ;),FOOD#QUALITY,positive
+Fondue Mondays.,FOOD#QUALITY,positive
+They're pretty good and very inexpensive.,FOOD#QUALITY,positive
+They're pretty good and very inexpensive.,FOOD#PRICES,positive
+Deep fried cheeseburger spring rolls.,FOOD#QUALITY,positive
+Ask for the seared scallops with pepper jack poblano grits.,FOOD#QUALITY,positive
+We can't get enough of it.,FOOD#QUALITY,positive
+(And everything tastes better when devoured on a garden patio),AMBIENCE#GENERAL,positive
+"Excellent food, huge wine variety, nice ambience & great service!",FOOD#QUALITY,positive
+"Excellent food, huge wine variety, nice ambience & great service!",DRINKS#STYLE_OPTIONS,positive
+"Excellent food, huge wine variety, nice ambience & great service!",AMBIENCE#GENERAL,positive
+"Excellent food, huge wine variety, nice ambience & great service!",SERVICE#GENERAL,positive
+very tasty!,FOOD#QUALITY,positive
+Try our pumpkin smash it's likes pumpkin pie in a cup!!!!!!,FOOD#QUALITY,positive
+Yummy :-),FOOD#QUALITY,positive
+This million calorie shake is worth it!,FOOD#QUALITY,positive
+"The onion rings are large, crunchy and awesome.",FOOD#QUALITY,positive
+"The onion rings are large, crunchy and awesome.",FOOD#STYLE_OPTIONS,positive
+Try turkish coffee on sand!,DRINKS#QUALITY,positive
+A true delight :) Also once in month on Mondays they hold poetry readings.,DRINKS#QUALITY,positive
+A true delight :) Also once in month on Mondays they hold poetry readings.,AMBIENCE#GENERAL,positive
+This has been my fave place for breakfast since I was in jr.,RESTAURANT#GENERAL,positive
+High.,RESTAURANT#GENERAL,positive
+Wow.,RESTAURANT#GENERAL,positive
+I love all the omlettes.,FOOD#QUALITY,positive
+My fave is the ham & cheese with potatoes and wheat toast.,FOOD#QUALITY,positive
+Try the Hopfenweisse (TAP 5) if you like really hoppy beer,DRINKS#QUALITY,positive
+"Bocca coffee and Ottolenghi-inspired, healthy dishes.",DRINKS#QUALITY,positive
+"Bocca coffee and Ottolenghi-inspired, healthy dishes.",FOOD#QUALITY,positive
+"Take away, or make yourself comfy with your delis in the welcoming, homey space.",FOOD#QUALITY,positive
+"Take away, or make yourself comfy with your delis in the welcoming, homey space.",AMBIENCE#GENERAL,positive
+The fried fish here is tiny.,FOOD#STYLE_OPTIONS,negative
+Please get bigger cups for water,DRINKS#STYLE_OPTIONS,negative
+"The sandwiches are AMAZING, the coffee is :thumbs_up: and the people who work here are super friendly.",FOOD#QUALITY,positive
+"The sandwiches are AMAZING, the coffee is :thumbs_up: and the people who work here are super friendly.",DRINKS#STYLE_OPTIONS,positive
+"The sandwiches are AMAZING, the coffee is :thumbs_up: and the people who work here are super friendly.",SERVICE#GENERAL,positive
+Gotta love Wawa!,RESTAURANT#GENERAL,positive
+The place is cool but the food is not good at all !,AMBIENCE#GENERAL,positive
+The place is cool but the food is not good at all !,FOOD#QUALITY,negative
+It doesn't even worth trying !,RESTAURANT#GENERAL,negative
+the worst burger I've ever tried,FOOD#QUALITY,negative
+Great choice in the area - had dinner and was impressed enough to repeat for lunch next day!,RESTAURANT#GENERAL,positive
+Go w/ the seafood.,FOOD#QUALITY,positive
+"Server was perplexed upon hearing about Foursquare ""special"".",SERVICE#GENERAL,negative
+Boo.,SERVICE#GENERAL,negative
+Omg.,RESTAURANT#GENERAL,positive
+"The ultimate, ultimate grilled cheese has jalapeño Mac n cheese and pulled pork within this crazy Sammie.",FOOD#QUALITY,positive
+"Instead of ketchup, dip your fries in the big bad wolf sause!",FOOD#QUALITY,positive
+Yummmmm <3,FOOD#QUALITY,positive
+Good food good service,SERVICE#GENERAL,positive
+Good food good service,FOOD#QUALITY,positive
+Freshest food & best happy hour in town! $2 craft pints 4-7.,FOOD#QUALITY,positive
+Freshest food & best happy hour in town! $2 craft pints 4-7.,RESTAURANT#MISCELLANEOUS,positive
+Freshest food & best happy hour in town! $2 craft pints 4-7.,DRINKS#PRICES,positive
+Great staff and service as well!,SERVICE#GENERAL,positive
+Great staff and service as well!,SERVICE#GENERAL,positive
+Service SUCKS!!!,SERVICE#GENERAL,negative
+And is overpriced AVOID leave while you can.,RESTAURANT#PRICES,negative
+And is overpriced AVOID leave while you can.,RESTAURANT#GENERAL,negative
+Service does not come with a smile it comes with an attitude,SERVICE#GENERAL,negative
+Not a fan of the new Frappuccinos...,DRINKS#QUALITY,negative
+If I were you I'd go for a Strawberry Smoothie with no Protein but add java chips.,DRINKS#QUALITY,positive
+If I were you I'd go for a Strawberry Smoothie with no Protein but add java chips.,FOOD#QUALITY,positive
+"It is, THE BOMB.",DRINKS#QUALITY,positive
+Excellent place to be with friends ... free karaoke guys... and great food ... unique design as jungle look a like ... two thumbs up ...!,RESTAURANT#GENERAL,positive
+Excellent place to be with friends ... free karaoke guys... and great food ... unique design as jungle look a like ... two thumbs up ...!,FOOD#QUALITY,positive
+Excellent place to be with friends ... free karaoke guys... and great food ... unique design as jungle look a like ... two thumbs up ...!,AMBIENCE#GENERAL,positive
+Excellent place to be with friends ... free karaoke guys... and great food ... unique design as jungle look a like ... two thumbs up ...!,AMBIENCE#GENERAL,positive
+Ask for Krystal.,SERVICE#GENERAL,positive
+She is the bomb dot com.,SERVICE#GENERAL,positive
+Come after 3 p.m for the delicious warm scones!,FOOD#QUALITY,positive
+Probably the best Veg restaurant on sinhagad road.,RESTAURANT#GENERAL,positive
+Try paneer tikka,FOOD#STYLE_OPTIONS,positive
+"They do have a firm $5 minimum for a credit card charge, that's my only complaint.",RESTAURANT#MISCELLANEOUS,negative
+"Very good friendly service, and they promptly bring refills",SERVICE#GENERAL,positive
+PEACHY PERFECTION!!!,RESTAURANT#GENERAL,positive
+That's how you know how good it is!,FOOD#QUALITY,positive
+Never had a good espresso here--only amazing espresso!,FOOD#QUALITY,positive
+Very bad service!,SERVICE#GENERAL,positive
+Love the free chips n salsa with every check in!,FOOD#QUALITY,positive
+Best Bloody Mary's in downtown Hendersonvile....,DRINKS#QUALITY,positive
+Parking is a nightmare,RESTAURANT#MISCELLANEOUS,negative
+Best pizza you will ever have!,FOOD#QUALITY,positive
+"The Meat King is a must and is also the one featured on the show, ""You Gotta Eat Here.""",FOOD#QUALITY,positive
+Take the coconut ice cream – it's incredible!,FOOD#QUALITY,positive
+The best West Indian Fried Rice.,FOOD#QUALITY,positive
+Pamela was a GREAT server :),SERVICE#GENERAL,positive
+They have the best Pad Thai!,FOOD#QUALITY,positive
+"This place has friendly cool staff and atmosphere, separated smoking room,generous menu,NOT for professionals though!",SERVICE#GENERAL,positive
+"This place has friendly cool staff and atmosphere, separated smoking room,generous menu,NOT for professionals though!",AMBIENCE#GENERAL,positive
+"This place has friendly cool staff and atmosphere, separated smoking room,generous menu,NOT for professionals though!",AMBIENCE#GENERAL,positive
+"This place has friendly cool staff and atmosphere, separated smoking room,generous menu,NOT for professionals though!",FOOD#STYLE_OPTIONS,positive
+"Must try: truffles scrambled eggs, crab tiramisu and wagyu",FOOD#QUALITY,positive
+"Must try: truffles scrambled eggs, crab tiramisu and wagyu",FOOD#QUALITY,positive
+"Must try: truffles scrambled eggs, crab tiramisu and wagyu",FOOD#QUALITY,positive
+This place has the worst service I don't care that it has an outdoor seating that people rave about !,SERVICE#GENERAL,negative
+This place has the worst service I don't care that it has an outdoor seating that people rave about !,AMBIENCE#GENERAL,negative
+In fact it's UGLY:neutral_face: and most of the food isn't available,FOOD#STYLE_OPTIONS,negative
+In fact it's UGLY:neutral_face: and most of the food isn't available,RESTAURANT#GENERAL,negative
+for take-away the service is rather slow,SERVICE#GENERAL,negative
+Go when it's real busy for fresh foods.,FOOD#QUALITY,positive
+Slowest drive through ever.,SERVICE#GENERAL,negative
+"Try Taqueria - L3 #03-29: Being intense foodies, we had the privilege to try the most unique Taco experience bar none.",RESTAURANT#GENERAL,positive
+"Try Taqueria - L3 #03-29: Being intense foodies, we had the privilege to try the most unique Taco experience bar none.",RESTAURANT#GENERAL,positive
+"Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!",FOOD#QUALITY,positive
+"Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!",FOOD#QUALITY,positive
+"Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!",FOOD#QUALITY,positive
+"Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!",FOOD#QUALITY,positive
+Chewy calamari.,FOOD#QUALITY,negative
+Salads swimming in dressing.,FOOD#QUALITY,negative
+Clumpy oily cream sauce.,FOOD#QUALITY,negative
+Warm beer.,DRINKS#QUALITY,negative
+Blech!,RESTAURANT#GENERAL,negative
+"I loved the philly steak sandwich, recommended :thumbs_up:",FOOD#QUALITY,positive
+I like this one better than most in the area,RESTAURANT#GENERAL,positive
+Try their 2ar3 3assal great way to end up a meal,FOOD#QUALITY,positive
+They run awesome specials daily!!,FOOD#QUALITY,positive
+It was so hot my kids refused to eat.,AMBIENCE#GENERAL,negative
+The air conditioning is on but it is cooler outside (with a breeze) than inside.,AMBIENCE#GENERAL,negative
+They think they are saving a few pennies...,SERVICE#GENERAL,negative
+Don't get the reuben.,FOOD#QUALITY,negative
+One of the worst I've ever had.,FOOD#QUALITY,negative
+"The other menu items I've had are quite good, however.",FOOD#QUALITY,positive
+Soo yummy!!,FOOD#QUALITY,positive
+Order the iced green tea strawberry creme ....So good,FOOD#QUALITY,positive
+"It's not on the menu as a dipping sauce, but ask for the Creamy Jalapeño sauce as a dip for your tortilla chips",FOOD#QUALITY,positive
+"Good beer, tourist prices ;)",DRINKS#QUALITY,positive
+"Good beer, tourist prices ;)",RESTAURANT#PRICES,negative
+Nice and quite place with relaxed atmosphere at the midst of the relatively business district.,RESTAURANT#GENERAL,positive
+Nice and quite place with relaxed atmosphere at the midst of the relatively business district.,AMBIENCE#GENERAL,positive
+"Great place for Friends, Family, and couples during the evening.",RESTAURANT#MISCELLANEOUS,positive
+Need to improve the service though!,SERVICE#GENERAL,negative
+Expensive and not very authentic.,RESTAURANT#PRICES,negative
+Thurs/Fri are the best nights,RESTAURANT#MISCELLANEOUS,positive
+The brownie was quite tasty,FOOD#QUALITY,positive
+"The dish is great, some are so-so but still great.",FOOD#QUALITY,positive
+"The dish is great, some are so-so but still great.",FOOD#QUALITY,neutral
+Love the salad and fruit bar.,FOOD#STYLE_OPTIONS,positive
+Fancy interior design.,AMBIENCE#GENERAL,positive
+8pc spicy tuna roll for only $2!,FOOD#PRICES,positive
+Pork tacos a little salty but good size portion.,FOOD#QUALITY,neutral
+Pork tacos a little salty but good size portion.,FOOD#STYLE_OPTIONS,positive
+Love the strawberry salad :),FOOD#QUALITY,positive
+Love the whole wheat bread...,FOOD#QUALITY,positive
+Yummmmy!!,FOOD#QUALITY,positive
+Really great pho in a hole in the wall on Colfax.,FOOD#QUALITY,positive
+Get the beef pho! (and they deliver),FOOD#QUALITY,positive
+the baby back ribs & shrimp is always da best.... ♡,FOOD#QUALITY,positive
+the baby back ribs & shrimp is always da best.... ♡,FOOD#QUALITY,positive
+"If you're in lewiston,ME,you cant deny yourself the best atmosphere and the friendliest service you will ever find at a restaurant.",AMBIENCE#GENERAL,positive
+"If you're in lewiston,ME,you cant deny yourself the best atmosphere and the friendliest service you will ever find at a restaurant.",SERVICE#GENERAL,positive
+Sweet & Chilli chicken!!!,FOOD#QUALITY,positive
+"Absolutely the best little coffee shop around... one of everything... mix your own flavors of coffee beans,...",RESTAURANT#GENERAL,positive
+"Absolutely the best little coffee shop around... one of everything... mix your own flavors of coffee beans,...",FOOD#STYLE_OPTIONS,positive
+One of my fav burger joint.,RESTAURANT#GENERAL,positive
+If u love classic you get The Shack and their signature frieds.,FOOD#QUALITY,positive
+If u love classic you get The Shack and their signature frieds.,FOOD#PRICES,positive
+Try Por Pia Thod n' Tod Mun Pla or Goong,FOOD#QUALITY,positive
+Try Por Pia Thod n' Tod Mun Pla or Goong,FOOD#QUALITY,positive
+Try Por Pia Thod n' Tod Mun Pla or Goong,FOOD#QUALITY,positive
+Sunday brunch is awesome,FOOD#QUALITY,positive
+Call ahead to get a Hot-N-Ready pizza!,FOOD#QUALITY,positive
+"Love all Cuban food, here the best menu item is the roast pork",FOOD#QUALITY,positive
+"Love all Cuban food, here the best menu item is the roast pork",FOOD#QUALITY,positive
+Just amazing burgers!,FOOD#QUALITY,positive
+Order your favorite breakfast or brunch item on a weekend (I recommend the Nova on a Bagel) and do some people watching in Lake Worth.,FOOD#QUALITY,positive
+"Request Jessica as your server, she's great!",SERVICE#GENERAL,positive
+"No drive-through, so have fun navigating the horrible parking lot and snarled entryway.",RESTAURANT#MISCELLANEOUS,negative
+Might be the best sandwich spot I've been to.,RESTAURANT#GENERAL,positive
+Be prepared to wait in line...,SERVICE#GENERAL,negative
+The wait is worth it.,FOOD#QUALITY,positive
+Food is awesome!,FOOD#QUALITY,positive
+The Wait staff is cool and helpful.,SERVICE#GENERAL,positive
+Really good live music!,AMBIENCE#GENERAL,positive
+Garlic bread-> heaven,FOOD#QUALITY,positive
+This place gives Hot Doug's a run for it's money.,RESTAURANT#PRICES,positive
+I had a meal where the staff from the senior manger to junior team took care of me.,SERVICE#GENERAL,positive
+I had a meal where the staff from the senior manger to junior team took care of me.,SERVICE#GENERAL,positive
+I had a meal where the staff from the senior manger to junior team took care of me.,SERVICE#GENERAL,positive
+Very satisfying customer service & good taste,SERVICE#GENERAL,positive
+Very satisfying customer service & good taste,FOOD#QUALITY,positive
+Shit WILL get cray.,RESTAURANT#GENERAL,negative
+I'm the only thing good in here,RESTAURANT#GENERAL,negative
+the fries are good,FOOD#QUALITY,positive
+Amazing dumplings.,FOOD#QUALITY,positive
+But I somehow like the pan fried better.,FOOD#QUALITY,negative
+The non-veg combo is also a good deal :D,FOOD#PRICES,positive
+Need to take some time to find this restaurant as the road is vry dark.,LOCATION#GENERAL,negative
+Worth the trip!,RESTAURANT#GENERAL,positive
+"Must try the steam fish, salted egg sotong, & pork hand!",FOOD#QUALITY,positive
+"Must try the steam fish, salted egg sotong, & pork hand!",FOOD#QUALITY,positive
+"Must try the steam fish, salted egg sotong, & pork hand!",FOOD#QUALITY,positive
+Love the banana foster and red velvet,FOOD#QUALITY,positive
+Mac and cheese is amazing and deceptively filling.,FOOD#QUALITY,positive
+Mac and cheese is amazing and deceptively filling.,FOOD#STYLE_OPTIONS,positive
+Try a biscuit bomb for an app with a friend.,FOOD#QUALITY,positive
+The food is just excellent!,FOOD#QUALITY,positive
+And cava too :),DRINKS#QUALITY,positive
+Dont let the odd location scare you.,LOCATION#GENERAL,negative
+Its a really great place,RESTAURANT#GENERAL,positive
+Don't come by here at 2:30 pm or so unless you want to stand in line with a dozen + teenyboppers!,RESTAURANT#MISCELLANEOUS,negative
+It's ok!,RESTAURANT#GENERAL,positive
+Kashmir Restaurant on Penang Road reins supreme!,RESTAURANT#GENERAL,positive
+They have more tender and more fresh chicken!,FOOD#QUALITY,positive
+Fresher and tastier dal!,FOOD#QUALITY,positive
+Better biryani!,FOOD#QUALITY,positive
+Fresher and softer naan - the naan here is cardboard,FOOD#QUALITY,positive
+"The mac and cheese isn't quite as good as at Mishkin's, but still a belter.",FOOD#QUALITY,positive
+Ties for fav shawarma in town for me.,FOOD#QUALITY,positive
+"Try the vegetarian and delicious Sam Sandwich, I'm not even vegetarian and I love it.",FOOD#QUALITY,positive
+"Lamb is also amazing, not on the menu so you have to ask.",FOOD#QUALITY,positive
+This place rocks.,RESTAURANT#GENERAL,positive
+Wooooot,RESTAURANT#GENERAL,positive
+Dan is by far the best ever.,SERVICE#GENERAL,positive
+"He's fast, friendly, and gives great recommendations.",SERVICE#GENERAL,positive
+"Thanks Dan, you rock!",SERVICE#GENERAL,positive
+"Love the small, intimate setting here.",AMBIENCE#GENERAL,positive
+Yummy and sexy food :D,FOOD#QUALITY,positive
+Yummy and sexy food :D,FOOD#STYLE_OPTIONS,positive
+Eric's best.,SERVICE#GENERAL,positive
+Make sure you ask for him!,SERVICE#GENERAL,positive
+Great ad amazing food from over 38 different country cuisines!!,FOOD#QUALITY,positive
+Great ad amazing food from over 38 different country cuisines!!,FOOD#STYLE_OPTIONS,positive
+Great drinks and great Ramen !,DRINKS#QUALITY,positive
+Great drinks and great Ramen !,FOOD#QUALITY,positive
+"But beware, the Ramen portions are HUGE.",FOOD#STYLE_OPTIONS,neutral
+Always order Breakfast here.,FOOD#QUALITY,positive
+It will never do you wrong.,FOOD#QUALITY,positive
+House sauce is amazing with the beer battered fish taco.,FOOD#QUALITY,positive
+House sauce is amazing with the beer battered fish taco.,FOOD#QUALITY,positive
+Drew is the best bartender in the BAR!!!,SERVICE#GENERAL,positive
+Go visit him.,SERVICE#GENERAL,positive
+Unlock the special and get the free Quesadilla.,FOOD#PRICES,positive
+OMG go for the Oreo milkshake.,DRINKS#QUALITY,positive
+"Overall it is delicious but a little pricey. $15 for burger, fries, & shake.",FOOD#QUALITY,positive
+"Overall it is delicious but a little pricey. $15 for burger, fries, & shake.",RESTAURANT#PRICES,negative
+"Overall it is delicious but a little pricey. $15 for burger, fries, & shake.",RESTAURANT#PRICES,negative
+Dim Sum Menu is awesome.,FOOD#QUALITY,positive
+"Get the taro ""footballs"" the sio pao (steamed bbq pork buns) and the pan fried noodles.",FOOD#QUALITY,positive
+"Get the taro ""footballs"" the sio pao (steamed bbq pork buns) and the pan fried noodles.",FOOD#QUALITY,positive
+"Get the taro ""footballs"" the sio pao (steamed bbq pork buns) and the pan fried noodles.",FOOD#QUALITY,positive
+Pork chop with spicy salt is awesome.,FOOD#QUALITY,positive
+Incredible breakfast.,FOOD#QUALITY,positive
+The cornbread with maple syrup rocks.,FOOD#QUALITY,positive
+A must try: lobster nachos.,FOOD#QUALITY,positive
+They are fantastic and with a hint of spice,FOOD#QUALITY,positive
+The new owners are awesome!,SERVICE#GENERAL,positive
+"If you haven't been here in a while, check it out!!",RESTAURANT#GENERAL,positive
+good coffee,DRINKS#QUALITY,positive
+"Recommendable; “Tarama” (salted fist roe), sour marinated seabass and pickled tunny.",FOOD#QUALITY,positive
+"Recommendable; “Tarama” (salted fist roe), sour marinated seabass and pickled tunny.",FOOD#QUALITY,positive
+"Recommendable; “Tarama” (salted fist roe), sour marinated seabass and pickled tunny.",FOOD#QUALITY,positive
+"Recommendable; “Tarama” (salted fist roe), sour marinated seabass and pickled tunny.",RESTAURANT#GENERAL,positive
+must try apple pie!!! wifi pass:lifestyle,FOOD#QUALITY,positive
+chocolate covered strawberries <3,FOOD#QUALITY,positive
+Try the vinsetta burger.,FOOD#QUALITY,positive
+You won't be disappointed!,FOOD#QUALITY,positive
+"A good selection of food, and fast on bringing out new when the pans are empty.",FOOD#STYLE_OPTIONS,positive
+"A good selection of food, and fast on bringing out new when the pans are empty.",SERVICE#GENERAL,positive
+"However, avoid the restroom!!!",AMBIENCE#GENERAL,negative
+Salmon Bennie was quite good.,FOOD#QUALITY,positive
+I come back often for the burger or skirt sandwich.,FOOD#QUALITY,positive
+I come back often for the burger or skirt sandwich.,FOOD#QUALITY,positive
+Great selection of juices and teas.,DRINKS#STYLE_OPTIONS,positive
+Great selection of juices and teas.,DRINKS#STYLE_OPTIONS,positive
+Hipster's paradise.,AMBIENCE#GENERAL,positive
+Try the Ethiopian Yirga.,FOOD#QUALITY,positive
+Looking through the bag isn't enough.,SERVICE#GENERAL,negative
+Dump it out on your seat so you don't drive home without your chicken nuggets.,SERVICE#GENERAL,negative
+"They will make good on the missing nuggets, but that's a half an hour wasted!",SERVICE#GENERAL,positive
+"They will make good on the missing nuggets, but that's a half an hour wasted!",SERVICE#GENERAL,negative
+Get the Pu Pu app platter!,FOOD#QUALITY,positive
+"Bo Bo Chicken is amazing, also!",FOOD#QUALITY,positive
+appetizer - wood-grilled octopus,FOOD#QUALITY,positive
+My all time favorite Mexican restaurant ever.,RESTAURANT#GENERAL,positive
+"Been going there since I was just a kid, and nobody compares!",RESTAURANT#GENERAL,positive
+I highly recommend it!,RESTAURANT#GENERAL,positive
+"Mmmm, speculoos mc flurry",FOOD#QUALITY,positive
+"Make sure you grab a whole wheat pita, fresh, free and delicious!",FOOD#QUALITY,positive
+"Make sure you grab a whole wheat pita, fresh, free and delicious!",FOOD#PRICES,positive
+This curry mee.,FOOD#QUALITY,negative
+I order big size.. when the time it come.. so SMALL portion and it cost rm4.30.. taste bad too...,FOOD#STYLE_OPTIONS,negative
+I order big size.. when the time it come.. so SMALL portion and it cost rm4.30.. taste bad too...,FOOD#PRICES,negative
+I order big size.. when the time it come.. so SMALL portion and it cost rm4.30.. taste bad too...,FOOD#QUALITY,negative
+Best sandwich shop in Downtown Dallas... and the high-tech beverage dispenser here always provides mid-day entertainment!,RESTAURANT#GENERAL,positive
+Best sandwich shop in Downtown Dallas... and the high-tech beverage dispenser here always provides mid-day entertainment!,AMBIENCE#GENERAL,positive
+The burgers are served on sourdough bread - and you should eat one!,FOOD#QUALITY,positive
+Just saw the semifreddo go out.,FOOD#QUALITY,positive
+I'll have one of those please,FOOD#QUALITY,positive
+Rabarb cream brulee with rabarb sorbet is perfect!,FOOD#QUALITY,positive
+Get the kid's breakfast with the choice of whichever egg from the menu.,FOOD#STYLE_OPTIONS,positive
+Quite filling.,FOOD#STYLE_OPTIONS,positive
+The Armani Martini is really good.,DRINKS#QUALITY,positive
+"For dessert, the tiramisu is one of the best around.",FOOD#QUALITY,positive
+"On Thursdays, come for the amazing free aperitivos during Happy Hour.",DRINKS#QUALITY,positive
+"On Thursdays, come for the amazing free aperitivos during Happy Hour.",DRINKS#PRICES,positive
+"Thai Iced Tea and potstickers were meh, but four entrees we got were AMAZING.",DRINKS#QUALITY,neutral
+"Thai Iced Tea and potstickers were meh, but four entrees we got were AMAZING.",FOOD#QUALITY,neutral
+"Thai Iced Tea and potstickers were meh, but four entrees we got were AMAZING.",FOOD#QUALITY,positive
+Best (and most unique) Thai I've had in a long time.,FOOD#QUALITY,positive
+Don't expect a line.,SERVICE#GENERAL,negative
+You have to fight your way to place your order,SERVICE#GENERAL,negative
+Horrible service.,SERVICE#GENERAL,negative
+Good thing I checked my order before I left.,SERVICE#GENERAL,negative
+feeling a little rich this morning,FOOD#STYLE_OPTIONS,negative
+"Great place for a reasonably priced steak dinner in Vegas, service is always impeccable.",RESTAURANT#GENERAL,positive
+"Great place for a reasonably priced steak dinner in Vegas, service is always impeccable.",SERVICE#GENERAL,positive
+"Great place for a reasonably priced steak dinner in Vegas, service is always impeccable.",RESTAURANT#PRICES,positive
+เกี๊ยวหมู world class :thumbs_up:,RESTAURANT#GENERAL,positive
+Try the Roasted Pear Salad - With obviously a lot of nuts,FOOD#QUALITY,positive
+Food was acceptable.,FOOD#QUALITY,neutral
+Price was alright.,RESTAURANT#PRICES,positive
+Chicken curry is not good.,FOOD#QUALITY,negative
+Buffalo Medium wings have nice kick and great flavor,FOOD#QUALITY,positive
+"Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!",RESTAURANT#GENERAL,positive
+"Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!",FOOD#QUALITY,positive
+"Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!",SERVICE#GENERAL,positive
+"Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!",LOCATION#GENERAL,positive
+"Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!",SERVICE#GENERAL,positive
+Great food if you have never tried it and delivery starting soon.,FOOD#QUALITY,positive
+"New staff, not very generous with the toppings, and not very quick...",SERVICE#GENERAL,negative
+Hope you get the senior staff!,SERVICE#GENERAL,positive
+Get the biscuits & gravy.,FOOD#QUALITY,positive
+Just do it.,FOOD#QUALITY,positive
+Choco Banana crepe ($50) is to die for!,FOOD#QUALITY,positive
+So much brownie and Nutella!,FOOD#STYLE_OPTIONS,positive
+So much brownie and Nutella!,FOOD#STYLE_OPTIONS,positive
+Terribly rude manager.,SERVICE#GENERAL,negative
+Why so expensive?,RESTAURANT#PRICES,negative
+"Mid level food, ordinary place, nothing special.",FOOD#QUALITY,neutral
+"Mid level food, ordinary place, nothing special.",RESTAURANT#GENERAL,neutral
+Beat authentic taco truck on the Westside.,RESTAURANT#GENERAL,positive
+You can't go wrong with their al pastor tacos.,FOOD#QUALITY,positive
+Top with their homemade cucumber/onion/jalapeño mixture for a fresh kick!,FOOD#QUALITY,positive
+Don't forget to order creme brulee as a dessert,FOOD#QUALITY,positive
+Love the chicken and dumplings!,FOOD#QUALITY,positive
+Excellent service here!,SERVICE#GENERAL,positive
+The Tokyo Fog with tapioca and soy was great!,FOOD#QUALITY,positive
+Lobster bisque was excellent,FOOD#QUALITY,positive
+The chai milkshakes are phenomenal!,DRINKS#QUALITY,positive
+Try the pljeskavica sandwich.,FOOD#QUALITY,positive
+It's a monstrous cross between a gyro and a hamburger.,FOOD#QUALITY,positive
+Spectacular.,FOOD#QUALITY,positive
+Don't waste your time (or $$$) on the salads or sandwich.,FOOD#PRICES,negative
+Don't waste your time (or $$$) on the salads or sandwich.,FOOD#PRICES,negative
+Stick with the lobster roll and lobster mac & cheese and you won't be disappointed.,FOOD#QUALITY,positive
+Stick with the lobster roll and lobster mac & cheese and you won't be disappointed.,FOOD#QUALITY,positive
+Watch out for overuse of tarragon though....shudder.,FOOD#QUALITY,negative
+You gotta try the cheese cake!,FOOD#QUALITY,positive
+Flores is the best.,RESTAURANT#GENERAL,positive
+can't tell the difference between the new homestyle fries as opposed to the old fries other than the new ones have a little bit of skin on them. still have to drown them in sauce to make them bearable,FOOD#QUALITY,negative
+can't tell the difference between the new homestyle fries as opposed to the old fries other than the new ones have a little bit of skin on them. still have to drown them in sauce to make them bearable,FOOD#QUALITY,negative
+Bang bang shrimp is the best shrimp ever!,FOOD#QUALITY,positive
+Best salmon sashimi in town.,FOOD#QUALITY,positive
+The food is ok but the service here sucked.,FOOD#QUALITY,neutral
+The food is ok but the service here sucked.,SERVICE#GENERAL,negative
+I ordered a beer and our food came out but my beer never did.,SERVICE#GENERAL,negative
+After taking my order we never saw the waiter.,SERVICE#GENERAL,negative
+Best Dunkin' Donuts around!,FOOD#QUALITY,positive
+"We will always drive further to this one than the one by our home from now on, just because of the great service from a guy named ADAM that was awesome to us!!!!",SERVICE#GENERAL,positive
+"We will always drive further to this one than the one by our home from now on, just because of the great service from a guy named ADAM that was awesome to us!!!!",SERVICE#GENERAL,positive
+Great food great service,FOOD#QUALITY,positive
+Great food great service,SERVICE#GENERAL,positive
+I stopped by here with my wife and kids and we loved the chicken salad!,FOOD#QUALITY,positive
+The mushrooms are delicious!!!,FOOD#QUALITY,positive
+"For a healthy lunch get the grilled chickens salad with BBQ sauce, ranch and bread.",FOOD#QUALITY,positive
+It's a really authentic Dim Sum Restaurant.,RESTAURANT#GENERAL,positive
+Good service + a nice boss that would explain the food to you whenever you have a question.,SERVICE#GENERAL,positive
+Good service + a nice boss that would explain the food to you whenever you have a question.,SERVICE#GENERAL,positive
+It's tiny inside but it's also all about quality + not quantity.,FOOD#QUALITY,positive
+It's tiny inside but it's also all about quality + not quantity.,FOOD#STYLE_OPTIONS,neutral
+This place reminds me of home.,RESTAURANT#GENERAL,positive
+LOVE THE MINI!! ....come to gahanna :D,RESTAURANT#GENERAL,positive
+LOVE THE MINI!! ....come to gahanna :D,FOOD#QUALITY,positive
+"If they are busy and say ""seat yourself"", make sure they see where you sit or you could wait a while.",SERVICE#GENERAL,negative
+Get the Cortado.,FOOD#QUALITY,positive
+The most perfect amount of milk and espresso with a heart on top.,FOOD#STYLE_OPTIONS,positive
+"Food is wonderful, but the service can be much better.",FOOD#QUALITY,positive
+"Food is wonderful, but the service can be much better.",SERVICE#GENERAL,positive
+"They seem to be preoccupied with something and tend to ""miss"" eye contact.",SERVICE#GENERAL,negative
+Adult milkshakes are worth the calories.,DRINKS#QUALITY,positive
+But highly variable.,FOOD#QUALITY,negative
+Very nice and quite place ;),AMBIENCE#GENERAL,positive
+"Don't let the name fool ya, they've got kickin catfish and fried pickles too, not many are aware of this tidbit.",FOOD#QUALITY,positive
+"Don't let the name fool ya, they've got kickin catfish and fried pickles too, not many are aware of this tidbit.",FOOD#QUALITY,positive
+So many foods here.!!,FOOD#STYLE_OPTIONS,positive
+"Come and chill at PakNgah CAFE ("",)",RESTAURANT#GENERAL,positive
+Their Chocolate Chip tastes awesome.,FOOD#QUALITY,positive
+The garlic fries are awesome!!,FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+"Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+Sandwiches and pecan pies are the bomb.,FOOD#QUALITY,positive
+Sandwiches and pecan pies are the bomb.,FOOD#QUALITY,positive
+Try the Ryne Sandburger!,FOOD#QUALITY,positive
+It's the place to meet if you're part of the Metro San Mateo tech entreprenuerial community!,RESTAURANT#MISCELLANEOUS,positive
+Must try the crispy duck!,FOOD#QUALITY,positive
+Sweet potato and sage dumplings are the stuff of dreams.,FOOD#QUALITY,positive
+Sweet potato and sage dumplings are the stuff of dreams.,FOOD#QUALITY,positive
+"The staff is amazing, and it's a must to have a Sexy girl!! ;) don't leave without her :p",SERVICE#GENERAL,positive
+"The staff is amazing, and it's a must to have a Sexy girl!! ;) don't leave without her :p",SERVICE#GENERAL,positive
+"Fav combo would be Tom Yum maggi double with prawns, foo chok + fried fish!",FOOD#QUALITY,positive
+"Fav combo would be Tom Yum maggi double with prawns, foo chok + fried fish!",FOOD#QUALITY,positive
+"Fav combo would be Tom Yum maggi double with prawns, foo chok + fried fish!",FOOD#QUALITY,positive
+"Make sure ask for extra soup, extra spicy n extra sour! :ppp",FOOD#QUALITY,positive
+"Make sure ask for extra soup, extra spicy n extra sour! :ppp",FOOD#QUALITY,positive
+"Make sure ask for extra soup, extra spicy n extra sour! :ppp",FOOD#QUALITY,positive
+Peanut butermoo'd!,DRINKS#QUALITY,positive
+Great place for a meeting.,RESTAURANT#MISCELLANEOUS,positive
+Sit by the warm fire.,AMBIENCE#GENERAL,positive
+Live Music Every Saturday Night 10-1am!!,AMBIENCE#GENERAL,positive
+The tiramisu is fantastic.,FOOD#QUALITY,positive
+Delicious.,FOOD#QUALITY,positive
+What isn't good here?,FOOD#QUALITY,positive
+"My favorite has to be the four veg plate - pintos, fried okra, carrots, and apples...with cornbread of course!",FOOD#QUALITY,positive
+The management is the worst i've ever had to deal with.,SERVICE#GENERAL,negative
+They take 0 responsibility.,SERVICE#GENERAL,negative
+"Treat their nonfavorite employees like total garbage even when they do their job above the ""favorites"".",SERVICE#GENERAL,negative
+YUM!!!!! this pizza is delicious!!!,FOOD#QUALITY,positive
+YUM!!!!! this pizza is delicious!!!,FOOD#QUALITY,positive
+They use moldy bread becareful my sandwich had mold on it nasty,FOOD#QUALITY,negative
+"Great food and cheap, awesome atmosphere",FOOD#QUALITY,positive
+"Great food and cheap, awesome atmosphere",AMBIENCE#GENERAL,positive
+"Great food and cheap, awesome atmosphere",FOOD#PRICES,positive
+Everything on the menu is heaven on your taste buds!,FOOD#QUALITY,positive
+I crave their food!,FOOD#QUALITY,positive
+Veggie burrito with shrimp.,FOOD#QUALITY,positive
+Yum!,FOOD#QUALITY,positive
+Really very nice an quiet place with beatiful waitress.,AMBIENCE#GENERAL,positive
+Really very nice an quiet place with beatiful waitress.,RESTAURANT#GENERAL,positive
+Really very nice an quiet place with beatiful waitress.,SERVICE#GENERAL,positive
+I strongly recommend to visit this tearoom ;-),RESTAURANT#GENERAL,positive
+"Good food, service was extremely accommodating, they get an A+ for that!",FOOD#QUALITY,positive
+"Good food, service was extremely accommodating, they get an A+ for that!",SERVICE#GENERAL,positive
+Fort Wayne's best micro-brew.,RESTAURANT#GENERAL,positive
+"Grab a booth along the windows & watch traffic as you sip a flight of their beers and munch on a Politician pizza, or Jambalaya Flatbread, a personal favorite of mine.",AMBIENCE#GENERAL,positive
+"Grab a booth along the windows & watch traffic as you sip a flight of their beers and munch on a Politician pizza, or Jambalaya Flatbread, a personal favorite of mine.",DRINKS#QUALITY,positive
+"Grab a booth along the windows & watch traffic as you sip a flight of their beers and munch on a Politician pizza, or Jambalaya Flatbread, a personal favorite of mine.",FOOD#QUALITY,positive
+"Grab a booth along the windows & watch traffic as you sip a flight of their beers and munch on a Politician pizza, or Jambalaya Flatbread, a personal favorite of mine.",FOOD#QUALITY,positive
+This place is awesome.,RESTAURANT#GENERAL,positive
+Has everything you could want for Mexican cuisine.,FOOD#QUALITY,positive
+Great place before and after work.,RESTAURANT#GENERAL,positive
+Nice ambiance! :smiling_face:,AMBIENCE#GENERAL,positive
+Nice ambiance! :smiling_face:,RESTAURANT#GENERAL,positive
+Vegetable pad Thai is the best!,FOOD#QUALITY,positive
+Along with the Sapota drink...YUM,DRINKS#QUALITY,positive
+Along with the Sapota drink...YUM,FOOD#QUALITY,positive
+It gets my tick!,RESTAURANT#GENERAL,positive
+Best place to eat in Wimberley!!!,RESTAURANT#GENERAL,positive
+Crab stuffed artichoke hearts.,FOOD#QUALITY,positive
+Delish!,FOOD#QUALITY,positive
+Good stuff,FOOD#QUALITY,positive
+Probably the best Starbucks in this state,RESTAURANT#GENERAL,positive
+We get promotion buy 2 get 1 free on sandwich.,FOOD#PRICES,positive
+"We also get birthday complementary dessert. the sandwich club & green tea is nice, raspberry smoothies is delish and blueberry cheese cake is a must try",FOOD#QUALITY,positive
+"We also get birthday complementary dessert. the sandwich club & green tea is nice, raspberry smoothies is delish and blueberry cheese cake is a must try",DRINKS#QUALITY,positive
+"We also get birthday complementary dessert. the sandwich club & green tea is nice, raspberry smoothies is delish and blueberry cheese cake is a must try",FOOD#QUALITY,positive
+"We also get birthday complementary dessert. the sandwich club & green tea is nice, raspberry smoothies is delish and blueberry cheese cake is a must try",FOOD#QUALITY,positive
+Definitely not speedy at night.,SERVICE#GENERAL,negative
+"So, be ready to practice your patience.",SERVICE#GENERAL,negative
+The crab rice is not very tasty.,FOOD#QUALITY,negative
+"Just basically rice n crab.however, the clams wi thai lemon sauce is great.",FOOD#QUALITY,positive
+The grape prawns are not too bad but I think they are not fresh enough.,FOOD#QUALITY,negative
+"Best salsa everrr, on good days though lol",FOOD#QUALITY,positive
+"Best salsa everrr, on good days though lol",FOOD#QUALITY,negative
+$8.90 lunch deal comes with soup and a drink,RESTAURANT#PRICES,positive
+Nice cup of tea Fab-u-lous ;-),DRINKS#QUALITY,positive
+You won't find a better breakfast biscuit anywhere.,FOOD#QUALITY,positive
+We detour just for the country fried steak biscuits.,FOOD#QUALITY,positive
+Time well spent!,RESTAURANT#GENERAL,positive
+Best cheeseburger in town - try to get a table upstairs,FOOD#QUALITY,positive
+Try the Malay nasi lemak stall very addictive,FOOD#QUALITY,positive
+Don't leave your valuables in the car if you are running in to get coffee.,LOCATION#GENERAL,negative
+There are a lot if break-ins,LOCATION#GENERAL,negative
+Chicken wings are awesome!!!,FOOD#QUALITY,positive
+"The service is very bad, stuff is rude and impolite, very high gratuity!!!??",SERVICE#GENERAL,negative
+"The service is very bad, stuff is rude and impolite, very high gratuity!!!??",SERVICE#GENERAL,negative
+Try the pork ribs :),FOOD#QUALITY,positive
+Burger was cooked to PERFECTION.,FOOD#QUALITY,positive
+They did get it right.,SERVICE#GENERAL,positive
+"Soft and tender, but still with that just grilled taste.",FOOD#QUALITY,positive
+And the homemade knish is incredible!,FOOD#QUALITY,positive
+Really good sushi.,FOOD#QUALITY,positive
+"I don't normally like big burgers and it's not a cheap burger, but this is truly one of the best burgers I've had.",FOOD#QUALITY,positive
+"I don't normally like big burgers and it's not a cheap burger, but this is truly one of the best burgers I've had.",FOOD#PRICES,neutral
+It's quite messy to eat but extremely delicious.,FOOD#QUALITY,positive
+Go with the plate instead of the sandwich to get delicious vinegary potatoes with your meal,FOOD#QUALITY,positive
+Go with the plate instead of the sandwich to get delicious vinegary potatoes with your meal,FOOD#QUALITY,positive
+Their chai latte is heavenly.,DRINKS#QUALITY,positive
+"Very disappointed with the quality of ingredients and the portions, pricy food with no exceptional service.",FOOD#QUALITY,negative
+"Very disappointed with the quality of ingredients and the portions, pricy food with no exceptional service.",FOOD#STYLE_OPTIONS,negative
+"Very disappointed with the quality of ingredients and the portions, pricy food with no exceptional service.",FOOD#PRICES,negative
+"Very disappointed with the quality of ingredients and the portions, pricy food with no exceptional service.",SERVICE#GENERAL,neutral
+"Order took too long though the place wasn't crowded, overall, it's an experience I regret",SERVICE#GENERAL,negative
+"Order took too long though the place wasn't crowded, overall, it's an experience I regret",RESTAURANT#GENERAL,negative
+Horrible parking during rush hour.,RESTAURANT#MISCELLANEOUS,negative
+Actually at any hour.,RESTAURANT#MISCELLANEOUS,negative
+Cosy and elegant .,AMBIENCE#GENERAL,positive
+Value for money.,RESTAURANT#PRICES,positive
+Porter is a cool guy to hang with.,SERVICE#GENERAL,positive
+Sit at the bar- he'll set you up right.,SERVICE#GENERAL,positive
+"Chocolate chip pancakes were extremely luxurious, i'd like to have seen some more chocolate but maybe I'm greedy.Omelette was fluffy & very tasty.",FOOD#QUALITY,positive
+"Chocolate chip pancakes were extremely luxurious, i'd like to have seen some more chocolate but maybe I'm greedy.Omelette was fluffy & very tasty.",FOOD#QUALITY,positive
+Hash browns were crispy outside creamy inside 10/10,FOOD#QUALITY,positive
+"Classic Indianapolis donuts, hard to beat them all the way across the board, though I do love Harts",FOOD#QUALITY,positive
+Super great tuna & cucumber panini.,FOOD#QUALITY,positive
+I like how tune is not hot while the panini is hot,FOOD#QUALITY,positive
+I like how tune is not hot while the panini is hot,FOOD#QUALITY,positive
+This CCD has one of the best locations in Bombay..,LOCATION#GENERAL,positive
+Ideally located..,LOCATION#GENERAL,positive
+Serene..calm!,AMBIENCE#GENERAL,positive
+"Try ""Kateifi"", you won't regret it!",FOOD#QUALITY,positive
+Muffins are so amaziiiiing! especially blueberry,FOOD#QUALITY,positive
+Muffins are so amaziiiiing! especially blueberry,FOOD#QUALITY,positive
+Try penne carbonara here...,FOOD#QUALITY,positive
+It's simply the best,FOOD#QUALITY,positive
+The Captain on the 4th floor has a very poor sense of humor!,SERVICE#GENERAL,negative
+"Very good store, great selection of Russian candy, pelmeni are very high quality.",FOOD#STYLE_OPTIONS,positive
+"Very good store, great selection of Russian candy, pelmeni are very high quality.",FOOD#QUALITY,positive
+Highly recommended!,RESTAURANT#GENERAL,positive
+Hands down one of my favorite restaurants.,RESTAURANT#GENERAL,positive
+"BBQ (smoked beef and slow roasted pork) is amazing and order several sides such as the yuca, fried plantains, and cornbread",FOOD#QUALITY,positive
+"BBQ (smoked beef and slow roasted pork) is amazing and order several sides such as the yuca, fried plantains, and cornbread",FOOD#QUALITY,positive
+"BBQ (smoked beef and slow roasted pork) is amazing and order several sides such as the yuca, fried plantains, and cornbread",FOOD#QUALITY,positive
+"BBQ (smoked beef and slow roasted pork) is amazing and order several sides such as the yuca, fried plantains, and cornbread",FOOD#QUALITY,positive
+Went here specifically for cheese omelette after reading so many 4sq reviews which was light & good.,FOOD#QUALITY,positive
+It was one of the places to visit on my list & I wasn't disappointed.,RESTAURANT#GENERAL,positive
+And this is one of the best around.,RESTAURANT#GENERAL,positive
+A favourite place for a quick nibble,RESTAURANT#GENERAL,positive
+Great neighborhood place that supports Teller Elementary!,RESTAURANT#GENERAL,positive
+Try the dark mocha iced coffee.,DRINKS#QUALITY,positive
+Its awesome.,DRINKS#QUALITY,positive
+50 cents per wing!,FOOD#PRICES,positive
+"Iove beer here, good for chilling out with friends",DRINKS#QUALITY,positive
+"Iove beer here, good for chilling out with friends",RESTAURANT#MISCELLANEOUS,positive
+Excellent black tea *thumbs up*,DRINKS#QUALITY,positive
+Thank heaven for 7-eleven.,RESTAURANT#GENERAL,positive
+And aren't the managers and staff amazing :).,SERVICE#GENERAL,positive
+And aren't the managers and staff amazing :).,SERVICE#GENERAL,positive
+Order for their pancakes.,FOOD#QUALITY,positive
+Forget about the rest in the menu *yawn*,FOOD#QUALITY,negative
+Come here for the chicken shwarma.,FOOD#QUALITY,positive
+Were a lot of noodles and just 5 little shrimps :/ Went out completely hungry.,FOOD#STYLE_OPTIONS,negative
+Were a lot of noodles and just 5 little shrimps :/ Went out completely hungry.,FOOD#STYLE_OPTIONS,negative
+"Good food, drinks, entertainment, & prices!!!",FOOD#QUALITY,positive
+"Good food, drinks, entertainment, & prices!!!",DRINKS#QUALITY,positive
+"Good food, drinks, entertainment, & prices!!!",AMBIENCE#GENERAL,positive
+"Good food, drinks, entertainment, & prices!!!",RESTAURANT#PRICES,positive

@@ -1,0 +1,852 @@
+review,aspect,sentiment
+ 2 words -filter coffee :-),DRINKS#QUALITY,positive
+ Not worth the price & hype,AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ You have to try carrot juice,DRINKS#QUALITY,positive
+ Im in love with it,RESTAURANT#GENERAL,positive
+ Total rip off!! They tried to change us more than double service charge on our bill. The small pizza is tiny and up the road you can get a 3 course meal for 15 soles! AVOID THIS PLACE!!!!,FOOD#STYLE_OPTIONS,positive
+"""---""",SERVICE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,negative
+"""---""",SERVICE#GENERAL,negative
+ The best bar in Hikkaduwa. U can find here everything u want),RESTAURANT#GENERAL,positive
+ Nice authentic tradition South Indian food.. Nice ambience and the lighting is good,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+ #36 with mango juice!,n/a,n/a
+ Best food in town! Their steaks are awesome!!! Thumbs up all the way!!!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Pasta tasteless. Mushroom watery and lemon tea need to ask for extra lemon. Super bad! Dun try!,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Great South Indian vegetarian fare!,FOOD#QUALITY,positive
+ Best soy coffee! They use BonSoy and if you get a mocha they use Belgian chocolate. Delicious!,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ Surprisingly good bourbon list. Ask Christian.,DRINKS#STYLE_OPTIONS,positive
+ No fries! Really?!?!,FOOD#STYLE_OPTIONS,positive
+" Burgers with extra pickles, onion rings and the chocolate shake are the best ever!!!! :) A must try if in the area. Just remember it's ""cash only""! :)",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Great spiced apple drink.,n/a,n/a
+ Try ice vanilla latte and chic o cheese,DRINKS#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Menu is on e readers. Pretty cool!!,n/a,n/a
+ A good cafe to rest in after a tiring walk in Mecca Mall,n/a,n/a
+ Great food. Excellent service. Great prices,FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+"""---""",SERVICE#GENERAL,positive
+ One Double cheeseBK n Nice outdoor atmosphere ^^ #HomeyBali,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+ Get the home made lime/mint lemonade!,n/a,n/a
+ Ben here 4 times in last month. Excellent sushi and old fashions. Music is way too loud for dining though! Turn it down a tad for eating please!,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+" Best wings, rolling to a spot near you.",n/a,n/a
+" If you're a lover of all things pumpkin, try the pumpkin bagel with the pumpkin cream cheese when they're in season!",n/a,n/a
+ Did this..Love it.,n/a,n/a
+ Chips and wam salsa. Delicious!,FOOD#QUALITY,positive
+ Try the calamari Taco n add some hot sauce..delicious!!,n/a,n/a
+" The chocolate babka is amazing- buttery, plenty of chocolate & stays moist (even when left open on a counter)!! If you order coffee at the front register, you have to go to the back to pick it up.",n/a,n/a
+" Beers all over the world, cool place",DRINKS#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Nice place. Good coffee not bad prices. But the menu could do with a redesign. Doesn't match the aesthetic of the property.,DRINKS#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ Good food. Parking can be a real pain!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+ The red beans and rice are DELICIOUS.. better than Pat O'Briens.,FOOD#QUALITY,positive
+ This is my fourth time here. Gets better every single time.,n/a,n/a
+ Must try shrimp avoid salad and Nutella Tiramissu. Enjoy!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ This is Mexican food done right. But If you want tortillas they will charge you for mere 2 tortillas (that is not right),FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+ Waitress wears flip flop. Doesn't know how to properly pour water out of a pitcher. Food was good though.,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Such a beautiful place,AMBIENCE#GENERAL,positive
+ The guys here will give you a hard time with the check in special.,SERVICE#GENERAL,positive
+ Puts Moe's and Chipotle to shame,n/a,n/a
+" Chicken teriyaki is good, vegetables nicely preppes, good serving portion, price friendly",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+" If you're looking for homemade local food. Thats the address.You should try ""keskek"" which is a traditional food. Kind of turkish risotto",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ The Red Velvet Waffles are to die for!,n/a,n/a
+" The owner, Whitney, suggested the small pies for client thank you gifts. I tried the Dutch Apple, it was DELICIOUS!!!",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Medium coffee + oatmeal for $3.50 = a great way to start the day.,RESTAURANT#PRICES,positive
+" Really excellent beer selection, solid food choices, and probably the worst music ever.",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+" Soo tasty meze, great balcony overviewing the bay",FOOD#QUALITY,positive
+ Plan to wait a while. This McDonald's is slow.,n/a,n/a
+ Get the Atticus Finch.,n/a,n/a
+" These burgers are the shit! Forget Grill'd , Forget all other burger joints in Melbourne. Danny's Burgers is where its at!",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Avoid the butter chicken unless you want a bowl of microwaved stodge with no taste and fatty chicken. Not to mention the stale bread! On the plus side service was lightening fast!,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Always great service up in the bar. Love the Chicago 7 calzone.,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ The chicken wing is the best xD yums <3,n/a,n/a
+ Awesome Chicken Greek Salad,n/a,n/a
+ Breakfast was awful. No server came to greet us the whole hour our three person party was there which meant we couldn't order any hot food. Every table was dirty and food that was out was old.,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+" Great food, kids are too loud......",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+ The shrimp risotto off the dinner menu is EPIC,n/a,n/a
+" Great breakfasts in a nice furnished cafè, slightly bohemian. Staff was friendly and they have free wifi. Everything is organic and they have a great selection of jams.",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",SERVICE#GENERAL,positive
+ Their beef salpicao is delicious! Good ambience and fast service! We love it!,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+" Farted In one of these cars, stank for days.",n/a,n/a
+ You can also get one of these in the evening at the riverside next to BarKa (https://www.facebook.com/planbarka).,n/a,n/a
+" It's a nice place,quiet and comfortable with nice people and good food...I recommend.",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Go to rockys on 2nd ave instead,n/a,n/a
+ Don't be fooled by the strip mall location. Great fresh food.,n/a,n/a
+" Nice simple place, fish and sea food available, prices are fine and easy to park. Other meals, salads and snacks in the menu. Give it a try when around bathing.",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+"""---""",LOCATION#GENERAL,neutral conflict
+" Stoked I was finally able to stop by after hearing about it from SLO friends for so long. This place stands up with the best of them. 10/10, would consume caffeine here again.",n/a,n/a
+" Jerry lee, I'm starvin!!! And u didn't invite me? I got my sad face on now! :(",n/a,n/a
+ Best pizza in town! Excellent wings and salad! Great lunch specials!,FOOD#QUALITY,positive
+" Place is very clean, amazing service an atmosphere looking forward to going back to try brunch!",AMBIENCE#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+" Very unprofessional... I called to make a reservatiom and they said that they did not take any reservation, but when I came directly, they said it was fully booked...",SERVICE#GENERAL,positive
+ Service here is great all the time :),SERVICE#GENERAL,positive
+ This place rocks! Great view of Crab Island as u enjoy a great fish sandwich with a cold one!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Wash down a tuna tartar with an Ion martini! You'll love this electrolyte enhanced vodka!,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+" Service is terrible, sadly it is not the managements fault. There is just no respect shown by the general staff. It's sad.",SERVICE#GENERAL,negative
+" Great food! Fair price, good ambiance and live music.",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+" Best wine in town, we will be back for more.",n/a,n/a
+ Get a calzone. They're 10 dollars but the size of a small baby.,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+" Lovely food, good portions, friendly staff. Recommended!",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Serves a wide range of cooked and grilled meals daily till 6 pm. Closed on Sundays. Value for money.,FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+" Try the cakes (the large ones), especially the one with forest fruits and chocolate.",n/a,n/a
+" This was the worst Brazilian BBQ I,ve ever been to. The meatshadno flavor and the chicken was completely dry. Awful experience, the waitress was too busy taking care of other tables. Don't come here.",FOOD#QUALITY,positive
+ The ceviche is amazing. Worth it!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ You got to try the new Brioche specials :),n/a,n/a
+ The Prosciutto sandwich is the Jam. Partly because it has strawberry-rhubarb jam.,n/a,n/a
+ Petifores (sp) are the way to go!,n/a,n/a
+" The center cut filet is a MUST if you're here for dinner. Trust me. If you find yourself here for brunch, the French toast is the way to go. It can get busy-no worries, free mimosas during your wait!",n/a,n/a
+ Great cake here.. It's a chain yes but feels more organic than Starbucks,n/a,n/a
+ Herb and bacon cream cheese. Yum.,n/a,n/a
+ Ikura Oroshi is amazing. It made me come back twice. The second time I also discovered the black miso cod.,n/a,n/a
+" Best cakes,, try the mini chocolate buttons <3 I also love their red-velvet cakes <33",n/a,n/a
+ Pancakes are very tasty. Wi fi 0137671273,n/a,n/a
+ adding photo,n/a,n/a
+ You have to try their Spanish Latte!,n/a,n/a
+" Medicore sushi, not special on taste nor variety and beamwallet doesn't work if you are considering it. Overall bad experience and waiting for management to rectify the beamwallet issue.",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+"""---""",SERVICE#GENERAL,positive
+ Be in Efes for 2nd time same as last time great food great Mr. Ramadan. Highly recommended,n/a,n/a
+" Dude, Alex makes the best coffee! and he's awfully forceful when it comes to chocolate croissants. Excellent service.",DRINKS#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Very nice service and these biscuits are delicious!,n/a,n/a
+ Lousy !!!!!,RESTAURANT#GENERAL,positive
+ Garlic and herbs crab + shrimp manchurian + oyster :victory_hand:,n/a,n/a
+ Great Happy Hour! Grab the newest issue of NiteGuide Magazine!,RESTAURANT#MISCELLANEOUS,positive
+ Dal fry with butter naan,n/a,n/a
+ Absolute favourite hotpot in town!,n/a,n/a
+" Great great food, not too pricey, good service and nice location near the center of the resort and the beach. Totally recommended.",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+"""---""",SERVICE#GENERAL,positive
+" Go to sandwich bar for lunch and split it with someone, they give big portions for a good price",FOOD#PRICES,negative
+ Margaritas are so strong and I swear there's something not right about them. Delicious!,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+" Great service and coffee. Often crowded and few tables, but cozy.",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ I always go for the Pepper Lunch Express...always the best beef pepper rice upsize meal....,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Feel friendly,n/a,n/a
+ Appetizers and soup,n/a,n/a
+ The staff...from the host to the bartender...were very lovely. I appreciated their positive energy and sincereness of how much they liked their job.,SERVICE#GENERAL,positive
+" Scones are highly recommended both plain and seasonal. Plus, royal milk tea cake tastes so good, not too sweet. Here is such a cute and cozy cafe in the heart of Bangkok. Me like :)",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ The stuffed pizza rawks,n/a,n/a
+" Try anything, either sweet or salty, tastes amazing and all home made! Nomnom.",n/a,n/a
+ The scallops are fantastic. Have a bottle of Newton Chardonnay to go with it.,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+" Try the bacon. It costs more than usual but so worth it. Really thick cuts done at order time, great smoky taste. Worth the extra cost.",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ Its amazing,n/a,n/a
+ Best Gyro and Baklava in town!!! Alex is a very awesome man!!,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Coffee with hazelnut is intoxicating,n/a,n/a
+ One of a great Taiwanese Steamboat. Love the solid herbal soup base n the spicy soup is also jus nice. Good enought to enjoy throughout. Set back is too expensive,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ Fried oyster sliders will change your life.,n/a,n/a
+" Check out the All In burger! It's a burger with pulled pork. Also, their potato salad is fantastic! Ask for Caryn or Kristen, they are the best servers!",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Their house-made honey-nougat ice cream really tasted much better than the commercial ice creams out there! Hope they have a branch in Metro Manila.,n/a,n/a
+ Try the mix fruit juice. It's fantastic!,n/a,n/a
+ The passion tea is yum! No caffeine or sugar (unless ya sweeten it!) and very refreshing.,DRINKS#QUALITY,positive
+ The three amigos enchiladas are GREAT!,n/a,n/a
+ Wednesdays wine and beer are 1/2 off after 3pm :) #vegas #townsquare @crazypita,n/a,n/a
+ They deliver!,n/a,n/a
+ The menu... Very cool vibe and a great dessert/coffee selection.,AMBIENCE#GENERAL,positive
+"""---""",DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ One of my favourite when I come here is mee bandung. The best mee bandung in town.. Kelantanesse okay yg masak! Omnomnomnom,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+" Try the Tea Latte's, It's refreshing and calming",n/a,n/a
+ Get ready to wait 1 hour for a bad hamburger!,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+" Beat chicken wing, one of the restaurant tauke soh (woman) attitude very rude !! When she write down ur orders her face macam tak puas",FOOD#QUALITY,positive
+" Nice and cosy bar, cafe!",AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Horrible food.. And service as well ..,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Tuesday 8/31 wifi is slow to a halt making work unproductive. What is up with cafes with slow wifi?,n/a,n/a
+ Picanha show !!!!!!,FOOD#QUALITY,positive
+ Perfect margarita will destroy you (in a good way),n/a,n/a
+ Great tapas and cheap beers... Oh.. And it tasted wonderful,FOOD#QUALITY,positive
+" Try the Asado Beef Ribs, the Lokum Beef and the Atnep Baklava for desserts.",n/a,n/a
+" Great coffee, beautiful space!",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+ Best chicken ever,n/a,n/a
+ Awesome service and affordable! 12 pieces of sashimi for ten bux!,RESTAURANT#PRICES,positive
+"""---""",SERVICE#GENERAL,positive
+"""---""",FOOD#PRICES,negative
+ Good place to try your first coffee in Vienne.,DRINKS#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ California Enchilada was great!!!,n/a,n/a
+" Only coffee shop in area, making it crazy in AM M-F. Drive thru slow even on weekends. Inside usually faster but not always.",AMBIENCE#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ The mushroom crostini is OUT of this world. No joke - surpasses every other crostini we tried by a long shot.,n/a,n/a
+" Don't ask for a cup of water to go with your $10 purchase. Apparently there's no time to help customers with 2 employees and 0 line, but plenty of time to worry about ""rules"" against ""free cups""",n/a,n/a
+ Pitas are incredibly tasty but avoid the lentil soup at all costs.,FOOD#QUALITY,positive
+ They honor restaurant.com certificates everyday!,n/a,n/a
+" Gunkan Crujiente, boys! an apetizer yiu won't regret!!!",n/a,n/a
+ Always yummy! Hilliard location as well. Been a customer for 10+ yrs,n/a,n/a
+ Nice food...,n/a,n/a
+ Hmmm lasagna's nothing to write home about....,n/a,n/a
+ Very very nice interior. Coffee is a little bit too light.,AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+ Bruno dough is the yummiest! Come hungry!,n/a,n/a
+" Smokehouse Chop Salad - Mixed field greens tossed w/ diced Hickory-smoked chicken, spicy bacon & candied walnuts, cheddar cheese, pico de gallo, topped w/ citrus vinaigrette & freshly sliced avocado.",n/a,n/a
+ Best 1/2 & 1/2's in town!,n/a,n/a
+ You can't find any place that serves the warm veal tongue here in KL! It is tender and taste really good! Melts in your mouth!!!,n/a,n/a
+ Dog friendly!!!!,n/a,n/a
+" If you want the best Japanese Ramen restaurant, please visit Ureshii Kitchen!!",n/a,n/a
+ For vegans: Get the grilled portabella vegetarian sandwich minus the cheese & mayo,n/a,n/a
+ Try the chocolate mouse - so good.,n/a,n/a
+" The trivia games at the table-side iPads are fun by watch out! You will have ""entertainment"" charges on your bill that are NOT explained on the iPad interface before you start playing the games!",AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ get the mexican hot chocolate here. it's something special,n/a,n/a
+" The head chef makes good eveything. Try the deserts too, great crem brule.",n/a,n/a
+ Great food but slooooooowest service ever!!!,n/a,n/a
+ $3 Burgers On Wednesdays,FOOD#PRICES,negative
+ THAI ICED COFFEE!! No other words! It's amazing! This is such an awesome little place. Good is good! You can't go wrong. Ate here many times when in Petoskey!,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ I have to drive an hour to get here and it's always worth it. Their BBQ pork buns are SUPER tasty. And the bubble tea is so delicious.,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Spicy lobster roll is amazing.,n/a,n/a
+ the jerk tofu wrap is spicy...and delicious,n/a,n/a
+ Great tasting burger. The Parmesan chips with truffle sauce were crunchy and yummy. Despite the reviews (which are dated). Ate after the rush hour around 2pm. Took 5-7 mins for order. Will return,n/a,n/a
+ Not bad .. delicious french fries :OK_hand:,n/a,n/a
+" If you shop at the Giant next door before you eat, you can frequently get a $5 off coupon good off of any $20 purchase.",n/a,n/a
+ Cheesy ravioli is the best,n/a,n/a
+ gobblerito: thanksgiving season special. It's a thanksgiving feast rolled into a burrito! Try it.,n/a,n/a
+" Get the pasta portofino salad and iced mocha, and hang out for a little while. The Gipsy Kings playing in the background will make up for there being no Internet.",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+ Amazing view and great BLAT sandwich as well as California burger. Great rest stop!,FOOD#QUALITY,positive
+"""---""",LOCATION#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Super friendly staff! & tasty sandwiches. Try Montagnard,n/a,n/a
+ Awesome dumplings!,n/a,n/a
+ Good service! ^^,n/a,n/a
+ PB&J shake is a must!,n/a,n/a
+" Cozy and charming corner cafe: Jeckyll and Hyde has cool style (see the leather seats and upright piano in the picture), a great vibe and, of course, yummy yummy coffee.",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Great staff! Very fun and friendly...been going here for years.,AMBIENCE#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+" Im not too picky with my burgers, as long as they have lettuce-tomatoes-cheese-and a juicy patty. Im solved :p , for the record..burgers are tasty, and the staff are very welcoming ;)",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Not as bad as the reviews looks like 3 pricks over reviewing,RESTAURANT#GENERAL,positive
+ Basically lived here for a week. Awesome place that captures the European cafe culture. Also BEST croissant I've ever had! :),AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+" Great food, one of the best, awesome presentation of food!!! Good service to",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",SERVICE#GENERAL,positive
+ They have the best Schawarma in UAE. Trust me on that,n/a,n/a
+" As much as I love the food here, I absolutely do not recommend it anytime it's anything other than completely dead. They ALWAYS mess up my order and leave me waiting far too long. Boo, Miso. :(",n/a,n/a
+" This new Birmingham restaurant just opened, but the comforting European-influenced food and carefully curated children's menu are already drawing local attention.",n/a,n/a
+ Eat here the meze from the chef or try the retsina plate,n/a,n/a
+" If you don't want to be queued on the waiting list for tables, get there ahead of the rush hour. It can take a while to get a seat.",n/a,n/a
+ Kevin is by far one of the best bartenders in the business.,n/a,n/a
+" Very friendly staff and good service, We were there Monday lunch, 3 March 2014, forgot to ask her name. She is working only by herself but still working with smile. Need more staff there.",SERVICE#GENERAL,positive
+" During football season, they celebrate Monday Night Football by offering their happy hour menu all night (3p-close). There is a huge variety of food and drinks half off.",DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+" wonderful ""Historic"" dining experience... The pub is perfect for a quick bite and drink. If you haven't experienced the dinner theater and formal dining experience, you're in for a treat!",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+" Dude,,one one the 3 best margaritas in the world.",n/a,n/a
+" There's always a lot of people but its worth the wait! Watch the signs for lines. Cakes only, Cafe, Pastries. I love the potato balls and the baked ham and cheese croissants! Cheese rolls with guava!",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Love the cheese tart ..<3,n/a,n/a
+ Art cafe nice vienna atmosphere,n/a,n/a
+" Splitting the big breakfast with a friend is awesome, affordable, and will full up just about anybody.",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Always fast and friendly! The food can't be beat. Best Arby's on Telegraph!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Shitty service,n/a,n/a
+ the food is 10/10 :clapping_hands::clapping_hands:,n/a,n/a
+ Breakfast burrito never let's me down.,n/a,n/a
+ The chorizo is a must!!,n/a,n/a
+ Great food,n/a,n/a
+ The tenderloin is Oh. My. God. Good. This place is the real deal.,FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+ awesome old school italian! super welcoming staff. loved it. fast & cozy for lunch.,AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Cash Only. Bring Cash.,n/a,n/a
+" Mint chocolate, pumpkin spice chocolate, coffee, hot caramel cider",n/a,n/a
+ IPETS@Lavender - behind V-Hotel #02-178. Great deals for pets cage/food & other stuffs!! Rabbits/Chinchilla/GuineaPig/Hamster.,n/a,n/a
+" This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#PRICES,positive
+"""---""",SERVICE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,negative
+ Great place for a quiet lunch near the perimeter that is NOT a chain or forcing you to fight traffic. The salads here are the best!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Possibly the best bistro in Brooklyn.,n/a,n/a
+ Awesome cajun chicken + gumbo. Order the beignets (suggested by Becky)-you will not be disappointed,n/a,n/a
+ Try the orange chicken!!,n/a,n/a
+ Nice shisha .. give it a try.,n/a,n/a
+ Best coffee on the NH-45,n/a,n/a
+ AMAZEBALLS! Get the cheese plate. Best $12 I have ever spent.,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ Biryani at this place makes you feel like at Hyderabad,n/a,n/a
+ The ice cream is fantastic and it's cheaper than Grom. One of my top 3 ice creams in torino. Chantilly and Nocciola variegato gianduja.,FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+" Baristar here r quiet good... Smooth hot coffee... Nice food, special here r buy 2 pints FREE 1 pints only at RM42++ add 1 more tips here is Segafredo WiFi password is ""sega123456789""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Nusr-et marine etmeden dover bunu:) Empaladas and baby goat(*) nice; but steak disappointing! try argentine wine; any malbec!...,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ Sundays kids eat free!,n/a,n/a
+ Buy two venties and 1lb of coffee and get the venties free . Woo hoo,n/a,n/a
+" Gourmet Mexican food with nearly 300 tequilas to choose from, descriptions which can be easily accessed on the iPad menus, will be great to drink on the seaside deck (note: don't drop the menu).",DRINKS#STYLE_OPTIONS,positive
+ The ¥200 extra ser includes choice among five side dishes and drinks - good deal in addition to three sizes of taco rice.,FOOD#PRICES,negative
+ Open till 11:55 so amazing!,n/a,n/a
+ Duck salad recommended,n/a,n/a
+ Coffee is the best at this place..costly though,DRINKS#PRICES,positive
+"""---""",DRINKS#QUALITY,positive
+ Try the chocolate cheese cake.. It's delicious,n/a,n/a
+ Gluten free friendly and I can actually order just about anything for my fiancé here that is available to everyone else! Love how caring they are about allergies!,FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+" A review in haiku: They have lots of meat | The filet tastes amazing | Food baby, I have....",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Order ahead at chipotle.com (or using their iPhone app) to bypass the line!,n/a,n/a
+ Homemade cakes in the restaurant are to die for. Gorgeous .,n/a,n/a
+ Quesadilla is to die for here!!! I keep on coming back just for that!,n/a,n/a
+ 6 crepes made in 40+ minutes. Make sure you have PLENTY of time to eat.,n/a,n/a
+ Excellent western food. Served traditional style.,n/a,n/a
+ Big oysters and a good po boy.,n/a,n/a
+ Too expensive for average menu,FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+" Pricey, but delicious. Treat yourself!",FOOD#QUALITY,positive
+ Seriously best buffet I've ever been too.,n/a,n/a
+ The drive thru is the weirdest configured drive thru - odd curve to get to window!,RESTAURANT#MISCELLANEOUS,positive
+ My first job back when I was a teenager was here! Pretty much everything is good.,n/a,n/a
+" Great service, good matcha tea",DRINKS#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+" One of my favourite Starbucks stores in San Antonio! Excellent (and friendly) staff, very clean, and usually just busy enough.",AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Ladies dresses Only. :/,n/a,n/a
+ Try the Crispy Fried Smelts,n/a,n/a
+ 4 to 6 most days - great music with the Happy Hour,n/a,n/a
+" Been here lots of times. Slowest starbucks ever. Don't go inside for service, use drive thru.",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ I love this ;-),n/a,n/a
+ This place is closed,n/a,n/a
+" I don't recommend buying Pico de Gallo fruit here. It's expensive, 7 bucks for a large and they don't put all the fruit that the list says. You're better off buying the fruit from the paisas.",n/a,n/a
+ It has moved to the Umami steamboat shop. Found alot of baby cockroaches on the wall and even ur dining table!,AMBIENCE#GENERAL,positive
+ Very friendly service.,n/a,n/a
+" "" White chocolate mocha "" denemeye değer :)",n/a,n/a
+ Apple pie and crab cake :smiling_face_with_heart-eyes:,n/a,n/a
+" The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi. The waitstaff is crazy, but fun. I love it here.",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+"""---""",SERVICE#GENERAL,positive
+ Fabulous new fit out and even better coffee!,n/a,n/a
+ The window is s good place to people watch,n/a,n/a
+ The lunch special is a great price and the rolls are delicious.,FOOD#PRICES,positive
+"""---""",FOOD#QUALITY,positive
+ One of the best coffee in the area beautiful shop,n/a,n/a
+ Best coffee in town. Friendly service too!,DRINKS#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Best Burgers in town! Everything is so fresh and delicious!,n/a,n/a
+ My favorite chinese resteraunt....,n/a,n/a
+ Avoid the diner it s expensive and not really good! Bug deception,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+ Pumpkin cream cheese donuts rock!,n/a,n/a
+ Great food...slow service.,n/a,n/a
+ Must try the vege tomyam curry mee!,n/a,n/a
+ One of the few chain places I know that do a Cortado,RESTAURANT#MISCELLANEOUS,positive
+ Best buffet and variety is huge!! <3,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Best diner in the area. Good food and friendly service. Their corned beef breakfast is awesome.,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Great place... Great food... You gotta go!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ always like cuppa,n/a,n/a
+" Believe it or not, all the sandwiches that are made in the back where the Deli is are so fresh and delicious especially the hot subs, and the cold cuts you can't beat it. Pricing is very reasonable!",FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+ Just got in from australia about a week ago and this is an exact replica of what you'd see in Sydney or Melbourne.,n/a,n/a
+" If it's December and you didn't order a slice of Candy Cane Pie or Gingerbread Pie, you may want to seek out medical attention!",n/a,n/a
+" Great Coffee, Can ring ahead to take away too.",n/a,n/a
+ Had the 3-way cannelloni and it was really delicious!,n/a,n/a
+ Very popular...don't get there late unless you're prepared to wait for at least an hour...great food :),AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+" lunch prix fixe is only $39, add the $10 for the pasta course!",n/a,n/a
+ The Garlic Bread is delicious try it.. :),n/a,n/a
+ best ever appetizer!skillet chip nachos!yum!,n/a,n/a
+ the Pescado Burrito is excellent,n/a,n/a
+" Come here if you're a die-hard cheese fan. The Mozzarella balls are humongous, but pair with the pesto sauces, it's a unique dining experience.",n/a,n/a
+ good crawfish pies and a cool environment,n/a,n/a
+ hidden pan mee shop,n/a,n/a
+ Ask for Garlic Balsamic Vinegar added to your Chicken Cheese Steak,n/a,n/a
+" The sushi is pretty good, but the size of the portions is excessive - hard to eat.",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ If you want to order a hot beverage ask arthur to draw you something on your cup,n/a,n/a
+" This place is AWESOME for drinks. You get a pitcher of sangria for $10 or of beer for $7! Check the daily specials, they are really good! Love the Captain Crunch Nutty Brother.. to die for!",DRINKS#PRICES,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ The beer mac and cheese is a huge portion and absolutely delicious.,n/a,n/a
+ must go and stay,n/a,n/a
+ Was not rushed out once we finished with our food unlike some of the other local restaurants. Food was tasty & fresh. Thumbs up.,n/a,n/a
+ Try the Hot Chick xD Delicious.,n/a,n/a
+ No starbucks yes nero,RESTAURANT#GENERAL,positive
+ Loved The Thundercat (burger). Should check it out.,n/a,n/a
+" Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+" Excellent and seasonally changing craft beers, brewed on premises in their own microbrewery. The original, pilsener and wheat beer are always available. Excellent choice for beer aficionados.",DRINKS#QUALITY,positive
+"""---""",DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+ The best croissants in Bratislava,n/a,n/a
+ Nice & Healthy food ;),n/a,n/a
+ Fondue Mondays. They're pretty good and very inexpensive.,FOOD#QUALITY,positive
+ Deep fried cheeseburger spring rolls. Need I say more?,n/a,n/a
+ Ask for the seared scallops with pepper jack poblano grits. We can't get enough of it. (And everything tastes better when devoured on a garden patio),AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+" Excellent food, huge wine variety, nice ambience & great service!",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ very tasty!,n/a,n/a
+ Try our pumpkin smash it's likes pumpkin pie in a cup!!!!!! Yummy :-),n/a,n/a
+ This million calorie shake is worth it!,n/a,n/a
+" The onion rings are large, crunchy and awesome.",n/a,n/a
+ Try turkish coffee on sand! A true delight :) Also once in month on Mondays they hold poetry readings.,AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+ This has been my fave place for breakfast since I was in jr. High. Wow. I love all the omlettes. My fave is the ham & cheese with potatoes and wheat toast. It's more special now with my fiancé.,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Try the Hopfenweisse (TAP 5) if you like really hoppy beer,n/a,n/a
+" Bocca coffee and Ottolenghi-inspired, healthy dishes. Take away, or make yourself comfy with your delis in the welcoming, homey space.",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ The fried fish here is tiny.,n/a,n/a
+ Please get bigger cups for water,DRINKS#STYLE_OPTIONS,positive
+" The sandwiches are AMAZING, the coffee is :thumbs_up: and the people who work here are super friendly. Gotta love Wawa!",DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ The place is cool but the food is not good at all ! It doesn't even worth trying !,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ the worst burger I've ever tried,n/a,n/a
+" Great choice in the area - had dinner and was impressed enough to repeat for lunch next day! Go w/ the seafood. Server was perplexed upon hearing about Foursquare ""special"". Boo.",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+" Omg. The ultimate, ultimate grilled cheese has jalapeño Mac n cheese and pulled pork within this crazy Sammie.",n/a,n/a
+ Call 87878 for delivery via citydelivery.ph,n/a,n/a
+" Instead of ketchup, dip your fries in the big bad wolf sause! Yummmmm <3",n/a,n/a
+ Good food good service,n/a,n/a
+ Freshest food & best happy hour in town! $2 craft pints 4-7. Great staff and service as well!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+"""---""",SERVICE#GENERAL,positive
+ Service SUCKS!!! And is overpriced AVOID leave while you can. Service does not come with a smile it comes with an attitude,RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+"""---""",SERVICE#GENERAL,negative
+" Not a fan of the new Frappuccinos... If I were you I'd go for a Strawberry Smoothie with no Protein but add java chips. It is, THE BOMB.",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ Excellent place to be with friends ... free karaoke guys... and great food ... unique design as jungle look a like ... two thumbs up ...!,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+" Ask for Krystal. She is the bomb dot com. Tell her ""hi"" from the Alabama crew!",SERVICE#GENERAL,positive
+ Book with RoundMenu and get 35% off total bill on weekdays..,n/a,n/a
+ Come after 3 p.m for the delicious warm scones!,n/a,n/a
+ Probably the best Veg restaurant on sinhagad road. Try paneer tikka,FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+" They do have a firm $5 minimum for a credit card charge, that's my only complaint.",n/a,n/a
+" Very good friendly service, and they promptly bring refills",n/a,n/a
+ PEACHY PERFECTION!!! I wrote it all in caps! That's how you know how good it is!,n/a,n/a
+ Never had a good espresso here--only amazing espresso!,n/a,n/a
+ Very bad service!,n/a,n/a
+ Love the free chips n salsa with every check in!,n/a,n/a
+ Best Bloody Mary's in downtown Hendersonvile....,n/a,n/a
+ Parking is a nightmare,n/a,n/a
+" Best pizza you will ever have! The Meat King is a must and is also the one featured on the show, ""You Gotta Eat Here."" Call and order beforehand since they run out fast!",n/a,n/a
+ Take the coconut ice cream – it's incredible!,n/a,n/a
+ The best West Indian Fried Rice.,n/a,n/a
+ Pamela was a GREAT server :),n/a,n/a
+ They have the best Pad Thai!,n/a,n/a
+" This place has friendly cool staff and atmosphere, separated smoking room,generous menu,NOT for professionals though!",AMBIENCE#GENERAL,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",SERVICE#GENERAL,positive
+" Must try: truffles scrambled eggs, crab tiramisu and wagyu",n/a,n/a
+ This place has the worst service I don't care that it has an outdoor seating that people rave about ! In fact it's UGLY:neutral_face: and most of the food isn't available,AMBIENCE#GENERAL,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ for take-away the service is rather slow,n/a,n/a
+" Go when it's real busy for fresh foods. They ask for gratuity when you 1st pay, save it for the table to see how service is.",n/a,n/a
+ Slowest drive through ever.,n/a,n/a
+" Try Taqueria - L3 #03-29: Being intense foodies, we had the privilege to try the most unique Taco experience bar none. Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ I don't understand any of these reviews. Chewy calamari. Salads swimming in dressing. Clumpy oily cream sauce. Warm beer. Blech!,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+" I loved the philly steak sandwich, recommended :thumbs_up:",n/a,n/a
+ I like this one better than most in the area,n/a,n/a
+ It's called The Diner now...FYI,n/a,n/a
+ Try their 2ar3 3assal great way to end up a meal,n/a,n/a
+ Try the 5th!! They are always a great suprise!! They run awesome specials daily!! Just ask!!,n/a,n/a
+ It was so hot my kids refused to eat. The air conditioning is on but it is cooler outside (with a breeze) than inside. They think they are saving a few pennies... It was empty on a Wed afternoon,AMBIENCE#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+" Don't get the reuben. One of the worst I've ever had. The other menu items I've had are quite good, however.",FOOD#QUALITY,positive
+" Mixed with almond, chocolatechips, blueberry, crushedgrahams. Soo yummy!!",n/a,n/a
+ Order the iced green tea strawberry creme ....So good,n/a,n/a
+" It's not on the menu as a dipping sauce, but ask for the Creamy Jalapeño sauce as a dip for your tortilla chips",n/a,n/a
+ I'm having sirloin with BBQ sauce and mozzarella cheese mushroom burger,n/a,n/a
+" Good beer, tourist prices ;)",DRINKS#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+" Nice and quite place with relaxed atmosphere at the midst of the relatively business district. Great place for Friends, Family, and couples during the evening. Need to improve the service though!",AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+"""---""",SERVICE#GENERAL,positive
+ Expensive and not very authentic.,RESTAURANT#PRICES,positive
+ Wed is sausagefest. Thurs/Fri are the best nights,n/a,n/a
+ The brownie was quite tasty,n/a,n/a
+" The dish is great, some are so-so but still great. Love the salad and fruit bar. Fancy interior design.",AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ 8pc spicy tuna roll for only $2!,n/a,n/a
+ Pork tacos a little salty but good size portion. Love the strawberry salad :),FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Love the whole wheat bread... Just noticed today that CF sells a whole baguette. Yummmmy!!,n/a,n/a
+ Really great pho in a hole in the wall on Colfax. Get the beef pho! (and they deliver),n/a,n/a
+ the baby back ribs & shrimp is always da best.... ♡,n/a,n/a
+" If you're in lewiston,ME,you cant deny yourself the best atmosphere and the friendliest service you will ever find at a restaurant.",AMBIENCE#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Sweet & Chilli chicken!!!,n/a,n/a
+ El meseroo distraidooo -_____-,n/a,n/a
+" Absolutely the best little coffee shop around... one of everything... mix your own flavors of coffee beans,...",n/a,n/a
+ One of my fav burger joint. If u love classic you get The Shack and their signature frieds. More click here : http://www.taufulou.com/2013/06/28/kgb-jalan-telawi-bangsar/,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",FOOD#PRICES,negative
+ Try Por Pia Thod n' Tod Mun Pla or Goong,n/a,n/a
+" Forgot to mention, cash only! So be prepared.",n/a,n/a
+ Sunday brunch is awesome,n/a,n/a
+ Call ahead to get a Hot-N-Ready pizza! They never have any ready don't know why they call it that then!!!,n/a,n/a
+" Love all Cuban food, here the best menu item is the roast pork",n/a,n/a
+ Just amazing burgers!,n/a,n/a
+ Downstairs. Photobooth. Huge mirrored bathrooms. Groupergram fun.,n/a,n/a
+" For WiFi, use Kepler's",n/a,n/a
+ Order your favorite breakfast or brunch item on a weekend (I recommend the Nova on a Bagel) and do some people watching in Lake Worth.,n/a,n/a
+ Phone number 973-484-5718 so I don't have to keep asking Herb lol,n/a,n/a
+" Request Jessica as your server, she's great!",n/a,n/a
+" No drive-through, so have fun navigating the horrible parking lot and snarled entryway.",n/a,n/a
+ Might be the best sandwich spot I've been to. Be prepared to wait in line... The wait is worth it.,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Food is awesome! The Wait staff is cool and helpful. Really good live music!,AMBIENCE#GENERAL,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Garlic bread-> heaven,n/a,n/a
+" This place gives Hot Doug's a run for it's money. If they had duck fat fries and a foie gras dog, I'd never go to Chicago again.",n/a,n/a
+ Use the door on the left!!!!,n/a,n/a
+ I had a meal where the staff from the senior manger to junior team took care of me. Very satisfying customer service & good taste,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Stupid Time Machine now resides at The New Movement (1919 Burgundy) so check out COMEDY BEAST at 8:30 here EVERY TUESDAY! Shit WILL get cray.,n/a,n/a
+ I'm the only thing good in here,n/a,n/a
+ the fries are good,n/a,n/a
+ Amazing dumplings. But I somehow like the pan fried better. The non-veg combo is also a good deal :D,FOOD#QUALITY,positive
+ 2-4-1 all day every day,n/a,n/a
+" Need to take some time to find this restaurant as the road is vry dark. Worth the trip! Must try the steam fish, salted egg sotong, & pork hand!",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Love the banana foster and red velvet,n/a,n/a
+ Mac and cheese is amazing and deceptively filling. Try a biscuit bomb for an app with a friend.,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ The food is just excellent! And cava too :),n/a,n/a
+ Dont let the odd location scare you. Its a really great place,RESTAURANT#GENERAL,positive
+ Don't come by here at 2:30 pm or so unless you want to stand in line with a dozen + teenyboppers!,n/a,n/a
+ It's ok! Kashmir Restaurant on Penang Road reins supreme! They have more tender and more fresh chicken! Fresher and tastier dal! Better biryani! Fresher and softer naan - the naan here is cardboard,n/a,n/a
+" The mac and cheese isn't quite as good as at Mishkin's, but still a belter.",n/a,n/a
+" Ties for fav shawarma in town for me. Try the vegetarian and delicious Sam Sandwich, I'm not even vegetarian and I love it. Lamb is also amazing, not on the menu so you have to ask.",n/a,n/a
+ This place rocks. And only five mins from hm. Wooooot,n/a,n/a
+" Dan is by far the best ever. He's fast, friendly, and gives great recommendations. Thanks Dan, you rock!",SERVICE#GENERAL,positive
+" Love the small, intimate setting here.",n/a,n/a
+ Yummy and sexy food :D,n/a,n/a
+ Eric's best. Make sure you ask for him!,n/a,n/a
+ Great ad amazing food from over 38 different country cuisines!!,n/a,n/a
+ I like turtles.,n/a,n/a
+" Great drinks and great Ramen ! But beware, the Ramen portions are HUGE.",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Always order Breakfast here. It will never do you wrong.,n/a,n/a
+ House sauce is amazing with the beer battered fish taco.,n/a,n/a
+ Drew is the best bartender in the BAR!!! Go visit him.,n/a,n/a
+ Get the sampler until you figure out what your favorite tacos are. Unlock the special and get the free Quesadilla.,n/a,n/a
+" OMG go for the Oreo milkshake. Overall it is delicious but a little pricey. $15 for burger, fries, & shake.",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+" Dim Sum Menu is awesome. Get the taro ""footballs"" the sio pao (steamed bbq pork buns) and the pan fried noodles. Pork chop with spicy salt is awesome.",FOOD#QUALITY,positive
+ Incredible breakfast. The cornbread with maple syrup rocks.,n/a,n/a
+ A must try: lobster nachos. They are fantastic and with a hint of spice,n/a,n/a
+" The new owners are awesome! If you haven't been here in a while, check it out!!",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ good coffee,n/a,n/a
+" Recommendable; “Tarama” (salted fist roe), sour marinated seabass and pickled tunny.",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ must try apple pie!!! wifi pass:lifestyle,n/a,n/a
+ chocolate covered strawberries <3,n/a,n/a
+ Try the vinsetta burger. You won't be disappointed!,n/a,n/a
+" Shop at Walmart then come here. Or, get drunk here then shop at Walmart",n/a,n/a
+" A good selection of food, and fast on bringing out new when the pans are empty. However, avoid the restroom!!!",AMBIENCE#GENERAL,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",SERVICE#GENERAL,positive
+ Salmon Bennie was quite good. I come back often for the burger or skirt sandwich. Great selection of juices and teas. I try to try something new every time.,DRINKS#STYLE_OPTIONS,positive
+"""---""",FOOD#QUALITY,positive
+ Hipster's paradise. Try the Ethiopian Yirga.,n/a,n/a
+" Looking through the bag isn't enough. Dump it out on your seat so you don't drive home without your chicken nuggets. They will make good on the missing nuggets, but that's a half an hour wasted!",SERVICE#GENERAL,positive
+" Get the Pu Pu app platter! Bo Bo Chicken is amazing, also!",n/a,n/a
+ appetizer - wood-grilled octopus,n/a,n/a
+" My all time favorite Mexican restaurant ever. Been going there since I was just a kid, and nobody compares! I highly recommend it!",RESTAURANT#GENERAL,positive
+" Mmmm, speculoos mc flurry",n/a,n/a
+" Make sure you grab a whole wheat pita, fresh, free and delicious!",n/a,n/a
+ This curry mee. I order big size.. when the time it come.. so SMALL portion and it cost rm4.30.. taste bad too...,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Best sandwich shop in Downtown Dallas... and the high-tech beverage dispenser here always provides mid-day entertainment!,AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+ The burgers are served on sourdough bread - and you should eat one!,n/a,n/a
+ Just saw the semifreddo go out. I'll have one of those please,n/a,n/a
+ Rabarb cream brulee with rabarb sorbet is perfect!,n/a,n/a
+ Get the kid's breakfast with the choice of whichever egg from the menu. Quite filling.,FOOD#STYLE_OPTIONS,positive
+" The Armani Martini is really good. For dessert, the tiramisu is one of the best around. On Thursdays, come for the amazing free aperitivos during Happy Hour.",DRINKS#PRICES,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+" Thai Iced Tea and potstickers were meh, but four entrees we got were AMAZING. Best (and most unique) Thai I've had in a long time.",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ Don't expect a line. You have to fight your way to place your order,n/a,n/a
+ Horrible service. Good thing I checked my order before I left.,n/a,n/a
+ feeling a little rich this morning,n/a,n/a
+" Great place for a reasonably priced steak dinner in Vegas, service is always impeccable.",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+"""---""",SERVICE#GENERAL,positive
+ เกี๊ยวหมู world class :thumbs_up:,n/a,n/a
+ Try the Roasted Pear Salad - With obviously a lot of nuts,n/a,n/a
+ Food was acceptable. Price was alright. Chicken curry is not good.,FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
+ Buffalo Medium wings have nice kick and great flavor,n/a,n/a
+" Fantastic Italian bistro on the waterfront, delicious food, excellent service, beautiful view and a friendly staff!",FOOD#QUALITY,positive
+"""---""",LOCATION#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Megna have now launched their new website www.megna-cs.com allowing everyone to now order takeaway online or even book a table. Great food if you have never tried it and delivery starting soon.,n/a,n/a
+" New staff, not very generous with the toppings, and not very quick... Hope you get the senior staff!",SERVICE#GENERAL,positive
+ Get the biscuits & gravy. Just do it.,n/a,n/a
+ Choco Banana crepe ($50) is to die for! So much brownie and Nutella! Take out also available.,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+ Remember going there during the last football world cup. Terribly rude manager.,n/a,n/a
+" Why so expensive? Mid level food, ordinary place, nothing special.",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ Beat authentic taco truck on the Westside. You can't go wrong with their al pastor tacos. Top with their homemade cucumber/onion/jalapeño mixture for a fresh kick!,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Don't forget to order creme brulee as a dessert,n/a,n/a
+ Love the chicken and dumplings!,n/a,n/a
+" From Hongik Univ station exit #9, walk straight till the you find VIPS steak. Turn left until you see HO Bar III. Turn right at the corner before that and then left when you see a yellow cat painting.",n/a,n/a
+ Chicken riggies & garlic knots.,n/a,n/a
+ Excellent service here! The Tokyo Fog with tapioca and soy was great!,n/a,n/a
+ Hey that's me!,n/a,n/a
+ Lobster bisque was excellent,n/a,n/a
+ The chai milkshakes are phenomenal!,n/a,n/a
+ Try the pljeskavica sandwich. It's a monstrous cross between a gyro and a hamburger. Spectacular.,n/a,n/a
+ Don't waste your time (or $$$) on the salads or sandwich. Stick with the lobster roll and lobster mac & cheese and you won't be disappointed. Watch out for overuse of tarragon though....shudder.,FOOD#QUALITY,positive
+"""---""",FOOD#PRICES,negative
+ You gotta try the cheese cake!,n/a,n/a
+ Flores is the best.,n/a,n/a
+ can't tell the difference between the new homestyle fries as opposed to the old fries other than the new ones have a little bit of skin on them. still have to drown them in sauce to make them bearable,FOOD#QUALITY,positive
+ Bang bang shrimp is the best shrimp ever!,n/a,n/a
+ Best salmon sashimi in town.,n/a,n/a
+ The food is ok but the service here sucked. I ordered a beer and our food came out but my beer never did. After taking my order we never saw the waiter.,FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,negative
+" Best Dunkin' Donuts around! We will always drive further to this one than the one by our home from now on, just because of the great service from a guy named ADAM that was awesome to us!!!!",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Great food great service,n/a,n/a
+ Only Starbucks for many miles!,n/a,n/a
+" This is a new restaurant off of the square in Ellijay, GA. The restaurant is actually located inside/behind TJ's antiques. I stopped by here with my wife and kids and we loved the chicken salad!",n/a,n/a
+ The mushrooms are delicious!!!,n/a,n/a
+" For a healthy lunch get the grilled chickens salad with BBQ sauce, ranch and bread.",n/a,n/a
+ It's a really authentic Dim Sum Restaurant. Good service + a nice boss that would explain the food to you whenever you have a question. It's tiny inside but it's also all about quality + not quantity.,FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ This place reminds me of home. So thankful WJ's is here. LOVE THE MINI!! ....come to gahanna :D,FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+" If they are busy and say ""seat yourself"", make sure they see where you sit or you could wait a while.",n/a,n/a
+ Get the Cortado. The most perfect amount of milk and espresso with a heart on top.,n/a,n/a
+" Food is wonderful, but the service can be much better. They seem to be preoccupied with something and tend to ""miss"" eye contact.",FOOD#QUALITY,positive
+"""---""",SERVICE#GENERAL,positive
+ Adult milkshakes are worth the calories. But highly variable.,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ Very nice and quite place ;),n/a,n/a
+" Don't let the name fool ya, they've got kickin catfish and fried pickles too, not many are aware of this tidbit.",n/a,n/a
+" So many foods here.!! Got shisha, chicken wing, thailand, western and etc .. Come and chill at PakNgah CAFE ("",)",RESTAURANT#GENERAL,positive
+ Their Chocolate Chip tastes awesome.,n/a,n/a
+ The garlic fries are awesome!!,n/a,n/a
+" Really good BBQ: brisket, ribs, pulled pork, chicken, fried chicken, sausage",FOOD#QUALITY,positive
+ Sandwiches and pecan pies are the bomb.,n/a,n/a
+ Try the Ryne Sandburger!,n/a,n/a
+ Think of Astaria as the Buck's of San Mateo. It's the place to meet if you're part of the Metro San Mateo tech entreprenuerial community!,n/a,n/a
+ Must try the crispy duck!,n/a,n/a
+ Sweet potato and sage dumplings are the stuff of dreams.,n/a,n/a
+" The staff is amazing, and it's a must to have a Sexy girl!! ;) don't leave without her :p",n/a,n/a
+" Fav combo would be Tom Yum maggi double with prawns, foo chok + fried fish! Make sure ask for extra soup, extra spicy n extra sour! :ppp",FOOD#QUALITY,positive
+ Peanut butermoo'd!,n/a,n/a
+ Great place for a meeting. Sit by the warm fire.,AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+ Live Music Every Saturday Night 10-1am!!,n/a,n/a
+" The tiramisu is fantastic. They give you the cake, coffee, creme, powder and you build it yourself. Delicious.",n/a,n/a
+" What isn't good here? My favorite has to be the four veg plate - pintos, fried okra, carrots, and apples...with cornbread of course!",n/a,n/a
+" The management is the worst i've ever had to deal with. They take 0 responsibility. Treat their nonfavorite employees like total garbage even when they do their job above the ""favorites"".",SERVICE#GENERAL,positive
+ YUM!!!!! this pizza is delicious!!!,n/a,n/a
+ They use moldy bread becareful my sandwich had mold on it nasty,n/a,n/a
+" Great food and cheap, awesome atmosphere",AMBIENCE#GENERAL,positive
+"""---""",FOOD#PRICES,positive
+"""---""",FOOD#QUALITY,positive
+ Everything on the menu is heaven on your taste buds! I crave their food!,n/a,n/a
+ Veggie burrito with shrimp. Yum!,n/a,n/a
+ Really very nice an quiet place with beatiful waitress. I strongly recommend to visit this tearoom ;-),AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Churchilll sadece burda bol limonlu... :),n/a,n/a
+" Good food, service was extremely accommodating, they get an A+ for that!",n/a,n/a
+" Fort Wayne's best micro-brew. Grab a booth along the windows & watch traffic as you sip a flight of their beers and munch on a Politician pizza, or Jambalaya Flatbread, a personal favorite of mine.",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ This place is awesome. Has everything you could want for Mexican cuisine.,n/a,n/a
+ Great place before and after work. Nice ambiance! :smiling_face:,AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Vegetable pad Thai is the best! Along with the Sapota drink...YUM,DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+ This is Tex Perkins' pub. He has transformed it into a pub with counter meals as well as a fine dining restaurant. It gets my tick!,n/a,n/a
+ Best place to eat in Wimberley!!!,n/a,n/a
+" 1,000 bank note is not accepted. Please prepare small change.",n/a,n/a
+ Crab stuffed artichoke hearts. Delish!,n/a,n/a
+ Good stuff,n/a,n/a
+ Dj eetu kafamiza saaptin!! You are the best.,n/a,n/a
+ Probably the best Starbucks in this state,n/a,n/a
+" We get promotion buy 2 get 1 free on sandwich. We also get birthday complementary dessert. the sandwich club & green tea is nice, raspberry smoothies is delish and blueberry cheese cake is a must try",DRINKS#QUALITY,positive
+"""---""",FOOD#PRICES,positive
+"""---""",FOOD#QUALITY,positive
+" Definitely not speedy at night. So, be ready to practice your patience.",n/a,n/a
+" The crab rice is not very tasty. Just basically rice n crab.however, the clams wi thai lemon sauce is great. The grape prawns are not too bad but I think they are not fresh enough.",FOOD#QUALITY,positive
+" Best salsa everrr, on good days though lol",n/a,n/a
+ $8.90 lunch deal comes with soup and a drink,n/a,n/a
+ Nice cup of tea Fab-u-lous ;-),n/a,n/a
+ You won't find a better breakfast biscuit anywhere. We detour just for the country fried steak biscuits. Time well spent!,n/a,n/a
+ Best cheeseburger in town - try to get a table upstairs,n/a,n/a
+ Try the Malay nasi lemak stall very addictive,n/a,n/a
+ Don't leave your valuables in the car if you are running in to get coffee. There are a lot if break-ins,n/a,n/a
+ Chicken wings are awesome!!!,n/a,n/a
+" The service is very bad, stuff is rude and impolite, very high gratuity!!!??",n/a,n/a
+ Try the pork ribs :),n/a,n/a
+" Burger was cooked to PERFECTION. I order rare, and a lot of places mess it up. They did get it right. Soft and tender, but still with that just grilled taste. And the homemade knish is incredible!",SERVICE#GENERAL,negative
+ Really good sushi.,n/a,n/a
+" I don't normally like big burgers and it's not a cheap burger, but this is truly one of the best burgers I've had. It's quite messy to eat but extremely delicious.",FOOD#QUALITY,positive
+ Go with the plate instead of the sandwich to get delicious vinegary potatoes with your meal,n/a,n/a
+ Their chai latte is heavenly.,n/a,n/a
+" Very disappointed with the quality of ingredients and the portions, pricy food with no exceptional service. Order took too long though the place wasn't crowded, overall, it's an experience I regret",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+"""---""",FOOD#PRICES,negative
+ Horrible parking during rush hour. Actually at any hour. The one at torrance crossroads is much better,RESTAURANT#MISCELLANEOUS,positive
+ 0.50mbps downspeed (usually),n/a,n/a
+ Cosy and elegant . Value for money.,AMBIENCE#GENERAL,positive
+"""---""",RESTAURANT#PRICES,positive
+ Porter is a cool guy to hang with. Sit at the bar- he'll set you up right.,n/a,n/a
+" Chocolate chip pancakes were extremely luxurious, i'd like to have seen some more chocolate but maybe I'm greedy.Omelette was fluffy & very tasty. Hash browns were crispy outside creamy inside 10/10",n/a,n/a
+" Classic Indianapolis donuts, hard to beat them all the way across the board, though I do love Harts",n/a,n/a
+ Super great tuna & cucumber panini. I like how tune is not hot while the panini is hot,n/a,n/a
+" If you love staying active in the community with your kids, then they will love being coached by the Harlem Globetrotters when they come to Phoenix area this summer! Summer Skills Clinic information:",n/a,n/a
+" Front lot does get full sometimes, but there's usually plenty of parking in the back.",n/a,n/a
+ This CCD has one of the best locations in Bombay.. Ideally located.. Serene..calm!,AMBIENCE#GENERAL,positive
+"""---""",LOCATION#GENERAL,positive
+" Try ""Kateifi"", you won't regret it!",n/a,n/a
+ Muffins are so amaziiiiing! especially blueberry,n/a,n/a
+ Try penne carbonara here... It's simply the best,n/a,n/a
+ The Captain on the 4th floor has a very poor sense of humor!,n/a,n/a
+ Casa Ole is a Tex-Mex restaurant located throughout Texas and the South. Some of their signature items include their queso and margaritas.,n/a,n/a
+" Very good store, great selection of Russian candy, pelmeni are very high quality. Highly recommended!",FOOD#QUALITY,positive
+"""---""",FOOD#STYLE_OPTIONS,positive
+"""---""",RESTAURANT#GENERAL,positive
+" Hands down one of my favorite restaurants. Plates are to be shared. BBQ (smoked beef and slow roasted pork) is amazing and order several sides such as the yuca, fried plantains, and cornbread",FOOD#QUALITY,positive
+"""---""",RESTAURANT#GENERAL,positive
+ Neighbour with The Little Prince Creamery :-),n/a,n/a
+ Went here specifically for cheese omelette after reading so many 4sq reviews which was light & good. It was one of the places to visit on my list & I wasn't disappointed. Usual waiting time 30-45 min,n/a,n/a
+ All the old diner standards. And this is one of the best around.,n/a,n/a
+ A favourite place for a quick nibble,n/a,n/a
+ Great neighborhood place that supports Teller Elementary!,n/a,n/a
+ Try the dark mocha iced coffee. Its awesome.,n/a,n/a
+ Wing street wednesday.. 50 cents per wing!,n/a,n/a
+" Iove beer here, good for chilling out with friends",DRINKS#QUALITY,positive
+"""---""",RESTAURANT#MISCELLANEOUS,positive
+ Excellent black tea *thumbs up*,n/a,n/a
+ Thank heaven for 7-eleven. And aren't the managers and staff amazing :).,RESTAURANT#GENERAL,positive
+"""---""",SERVICE#GENERAL,positive
+ Order for their pancakes. That's it! Forget about the rest in the menu *yawn*,n/a,n/a
+ Come here for the chicken shwarma.,n/a,n/a
+ I asked noodles with shrimps and... Were a lot of noodles and just 5 little shrimps :/ Went out completely hungry.,FOOD#STYLE_OPTIONS,positive
+" Good food, drinks, entertainment, & prices!!!",AMBIENCE#GENERAL,positive
+"""---""",DRINKS#QUALITY,positive
+"""---""",FOOD#QUALITY,positive
+"""---""",RESTAURANT#PRICES,positive
